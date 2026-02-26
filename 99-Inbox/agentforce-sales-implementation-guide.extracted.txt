@@ -1,0 +1,2812 @@
+
+
+===== PAGE 1 =====
+Sales
+Implementation 
+Guide 
+Updated Oct 2025
+
+
+===== PAGE 2 =====
+Table of Contents
+Lead Generation
+1
+2
+Lead Nurturing
+
+
+===== PAGE 3 =====
+Augment Sales Teams at Every Stage
+Agents take action from prospecting to close so 
+reps can focus on building customer relationships. 
+Turn Uniﬁed Data into Intelligent Action
+Give reps and agents insights they need from 
+C360, conversation, external, and unstructured 
+data.
+Connect Your End-to-End Sales Process 
+Bring your entire extended revenue team together 
+in a single solution to drive eﬃcient growth.
+Start Fast, Customize Easily
+Deploy pre-built templates and tailor them to 
+match your unique sales process.
+Agentforce Sales
+
+
+===== PAGE 4 =====
+Conﬁdential
+Lead Nurturing
+Lead Generation
+How Agentforce Generates & Nurtures Leads
+Generate New Leads 
+on the Web
+Expand your existing web agent to 
+capture interest, qualify leads, and book 
+meetings in real-time
+01
+Nurture Leads 
+by Email
+Follow up with personalized email 
+outreach, timely responses, and pass 
+qualiﬁed leads to sellers
+02
+
+
+===== PAGE 5 =====
+Agentforce 
+Sales for Lead 
+Generation
+Setup Guide
+
+
+===== PAGE 6 =====
+Conﬁdential
+Lead Nurturing
+Lead Generation
+How Agentforce Generates & Nurtures Leads
+Generate New Leads 
+on the Web
+Expand your existing web agent to 
+capture interest, qualify leads, and book 
+meetings in real-time
+01
+Nurture Leads 
+by Email
+Follow up with personalized email 
+outreach, timely responses, and pass 
+qualiﬁed leads to sellers
+02
+
+
+===== PAGE 7 =====
+Conﬁdential
+Your Web Agent Today: Handles Support Cases Only
+Support Cases
+Website visitor asks question
+Agentforce 
+provides support
+Agentforce 
+deﬂects
+Already 
+Live
+What is the warranty policy on my 
+watch?  
+What is the make and model?
+I want to send it in for repair  
+Got it, scheduling now…
+ Website visitor’s question
+1
+2
+
+
+===== PAGE 8 =====
+Conﬁdential
+Support Cases
+Lead Generation
+Agentforce provides
+support
+Agentforce deﬂects
+Agentforce 
+qualiﬁes
+Agentforce creates 
+lead record
+Agentforce books 
+meeting with seller
+Here is a link to schedule a 
+meeting.
+Already 
+Live
+New
+What is the warranty policy on my 
+watch?  
+What is the make and model?
+I want to send it in for repair  
+Got it, scheduling now…
+Can you provide your name & 
+email to follow-up?
+Sure! There are 4 models…..
+Can you tell me more about the 
+Raquel watch?
+Your Web Agent Tomorrow: Also Generates Leads
+Website visitor asks question
+ Website visitor question
+1
+2
+3
+Agentforce 
+assess intent
+
+
+===== PAGE 9 =====
+Conﬁdential
+Lead Generation comes with all Topics and Actions OOTB
+Agentforce 
+qualiﬁes
+Agentforce creates 
+lead record
+Agentforce books 
+meeting with seller
+Here is a link to schedule a 
+meeting.
+Can you provide your name & 
+email to follow-up?
+Sure! There are 4 models….
+Answer Question 
+w/ Knowledge
+Answer Questions*
+Lead Creation
+Create Sales Record
+Schedule Meeting
+Return Calendar Link 
+Topics
+Jobs to be done
+Actions
+Steps to take
+Agentforce asses 
+intent to route
+Assess Intent*
+Assess Intent
+Support 
+Cases
+Lead 
+Generation
+*Not OOTB now, requires customization
+
+
+===== PAGE 10 =====
+Conﬁdential
+Possible Flex Credit Consumption for Lead Generation
+Agentforce 
+qualiﬁes
+Agentforce captures lead info 
+& creates record
+Agentforce books a meeting 
+for the seller
+You can schedule a meeting with 
+this link Meeting Link
+To assist you further, can you 
+provide your name & email?
+Sure! The Racquel watch comes in 
+4 models…..
+Answer Question 
+w/ Knowledge
+Answer Questions*
+Lead Creation
+Create Sales Record
+Schedule Meeting
+Return Calendar Link 
+Topics
+Jobs to be done
+Actions
+Steps to take
+Agentforce asses 
+intent to route
+Assess Intent*
+Assess Intent
+Support 
+Cases
+Lead 
+Generation
+Flex Credits
+1 action = $.10
+1 Action: 
+For every question answered
+1 Action:
+To create a lead record
+1 Action: 
+To schedule a meeting
+4 Actions | $0.40 cents
+1 Action: 
+To assess intent
+*require some customization
+
+
+===== PAGE 11 =====
+Conﬁdential
+Top Sales Use Cases on the Web
+Upsell and Cross-sell with 
+product recommendations
+Book sales meetings in 
+real-time
+Oﬀer special promos or 
+discounts
+Provide demo videos or 
+other resources
+Timely answers to product 
+questions
+Qualify prospects & create 
+lead records
+
+
+===== PAGE 12 =====
+Conﬁdential
+Two ways to easily setup lead generation
+1.
+Set up pre-req features
+2.
+Add Lead Generation and 
+Schedule Meeting topics 
+3.
+Conﬁgure above Topics and 
+Actions to work together via 
+Topic Filtering
+4.
+Conﬁgure instructions of existing 
+Topics to work with new Topics
+5.
+[Optional] Customize the Flows 
+6.
+Test & Deploy
+OOTB Experience: ~1 hour
+Activation Steps at a Glance:
+Get started now with our Implementation Guide
+Extend existing agent:  ~1+ days
+1.
+1-click enable features in 
+Salesforce Go
+2.
+Create agent in step-by-step 
+Guided Conﬁg
+3.
+Test & Deploy
+Activation Steps at a Glance:
+Get started now with our Implementation Guide
+
+
+===== PAGE 13 =====
+Agentforce Sales for Lead Gen & Nurturing E2E Walkthrough 
+External Link (TBD)
+Agentforce
+Lead Generation
+
+
+===== PAGE 14 =====
+Technology Considerations
+Yes
+No
+Will most ASA customers 
+have this enabled already?
+Objects
+Do you currently use or plan to use the Salesforce Lead, Contact, or 
+Person Accounts object
+✔
+✗
+✔ (If also using Sales Cloud)
+Digital 
+Channels
+Do you currently use or will you be using Web to ﬁeld incoming traﬃc 
+and questions from prospects?
+✔
+✗
+✔
+Do you currently use Messaging In-App Web or willing to use it?
+✔
+✗
+✔
+Product 
+Supporting 
+Features
+Do you currently use or are you willing to use Omni-Channel and Digital 
+Engagement? 
+✔
+✗
+✔
+Are you willing to use Sales Inbox for meeting scheduling? If not, are 
+you willing to use customizations to bring your own meeting scheduling?
+✔
+✗
+✗
+Do you currently have existing Lead Assignment Rules or other 
+Assignment Rules for your Objects representing prospective customers?
+✔
+✗
+✔ (If also using Sales Cloud)
+Sandbox 
+Readiness
+Is Data Cloud properly enabled in your Sandbox environment? 
+✔
+✗
+✔
+All of these conditions must be met to leverage our Lead Generation
+
+
+===== PAGE 15 =====
+Permission Set(s)
+Description
+Agent User
+All of the below is auto assigned to Agent when going through Guided 
+Conﬁg
+PSG
+●
+AgentforceServiceAgentUserPsg
+Permission Set
+●
+Agentforce Service Agent User
+●
+Data Cloud
+●
+Inbound Lead Generation Agent
+●
+Einstein Prompt Templates
+●
+Create custom perm set → App Permissions → Inbox Scheduling 
+Proxy User
+Allows the Agent to interact with customers on web and 
+create leads/contacts/person accounts, qualify them, and 
+schedule meetings
+Sales Manager / Admin
+All of the below is auto assigned to Agent when going through Guided 
+Conﬁg
+●
+Conﬁgure Inbound Lead Generation Agent
+●
+Data Cloud Architect
+Allow sales manager to  view and conﬁgure the Lead 
+Generation experience 
+Sales User
+●
+Use Agentforce SDR Agent
+●
+Inbox Perm
+○
+Inbox With Einstein Activity Capture is recommended 
+(see slide for more details)
+Allow sales users to access and interact with Agentforce 
+SDR, and send leads to SDR Agent
+Lead Nurturing Permissions
+
+
+===== PAGE 16 =====
+Enable required 
+features and 
+complete 
+prerequisite setup 
+steps
+Simple No-Code 
+Agent Creation 
+and Testing
+Monitor your 
+agent activity and 
+outcomes
+Create and Test
+2
+Enable Agentforce for Sales
+1
+Runtime & Monitoring
+3
+Implementation Guide Overview 
+Time: 5 mins
+Time: 5-7 mins
+Time: 3-5 mins
+
+
+===== PAGE 17 =====
+Discover Agentforce for 
+Sales in Salesforce Go
+Find Salesforce Go in 
+Setup. 
+Discover Agentforce for 
+Sales in Go Home. 
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 18 =====
+Discover Agentforce for 
+Sales in Salesforce Go
+Turn on Agentforce.
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 19 =====
+Discover Agentforce for 
+Sales in Salesforce Go
+Verify that Agentforce is 
+on. 
+You can see subsequent 
+Sales Agent Templates 
+once Agentforce is on.
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 20 =====
+Discover Agentforce for 
+Sales in Salesforce Go
+Verify that Agentforce is 
+on. 
+You can see subsequent 
+Sales Agent Templates 
+once Agentforce is on.
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 21 =====
+Turn on features in Go
+Flip on toggle under 
+Inbound Lead Generation 
+and click conﬁrm
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 22 =====
+Conﬁrm everything has 
+been enabled
+You should see green 
+checks next to every 
+feature
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 23 =====
+Assign Agent Managers
+Click Manage for “Manage 
+Access for Managers and 
+Users”
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 24 =====
+Assign Agent Managers
+Select users you want to 
+manage agent, and assign 
+them for both “Conﬁgure 
+Inbound Lead Generation 
+Agent” and “Data Cloud 
+Architect”
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 25 =====
+Create Agent User
+Select “Manage” for 
+“Manage Agent’s User 
+Record”
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 26 =====
+Create Agent User
+Select existing user or 
+create a new one
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 27 =====
+Create Agent User
+Conﬁrm that record has 
+been created
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 28 =====
+Conﬁgure Data for Your 
+Agent
+Manage the data your 
+agent will use to answer 
+questions or complete 
+tasks
+Click ‘Go to Agentforce 
+Data Library Setup’. 
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 29 =====
+Conﬁgure Data for Your 
+Agent
+Your Sales Agent can use 
+‘Retrieval Augmented 
+Generation’ to provide 
+accurate answers or 
+complete tasks eﬃciently.
+Click ‘New Library’.
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 30 =====
+Conﬁgure Data for Your 
+Agent
+Deﬁne your Name and 
+Description for the new 
+Data Library
+Click ‘Save’.
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 31 =====
+Conﬁgure Data for Your 
+Agent
+Deﬁne your Name and 
+Description for the new 
+Data Library
+Click ‘Save’.
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 32 =====
+Go to Agentforce 
+Builder to Create & 
+Conﬁgure your agent
+The next part of setup is 
+conﬁguring the details of how 
+your agent operates, including 
+its working schedule, timing 
+and frequency of outreach, and 
+how it drafts initial emails and 
+answers to lead questions.
+Click Go.
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 33 =====
+Build a New Agent
+Simpliﬁed Creation Experience 
+allows for fast and no-code 
+agent setup. 
+To create a new Agent, click 
+‘Build a New Agent’.
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 34 =====
+Edit an Existing Agent
+Any agent created through this 
+new experience can be edited if 
+the following conditions are 
+met:
+1.
+Agent is not edited 
+outside of this 
+experience
+2.
+Agent is deactivated
+If not, you will see a link to edit 
+the agent in Builder.
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 35 =====
+Sales Agent 
+Conﬁguration: 
+Select Agent Template
+Choose the agent template you 
+want to create. Select ‘Inbound 
+Lead Generation’, then click 
+‘Continue’.
+If you don’t see the template, 
+the necessary prerequisites are 
+not yet turned on in Go. Go 
+back to Salesforce Go to make 
+sure the feature is enabled 
+properly.
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 36 =====
+Sales Agent 
+Conﬁguration: 
+Select Agent Template
+Choose the agent template you 
+want to create. Select ‘Inbound 
+Lead Generation’, then click 
+‘Continue’.
+If you don’t see the template, 
+the necessary prerequisites are 
+not yet turned on in Go. Go 
+back to Salesforce Go to make 
+sure the feature is enabled 
+properly.
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 37 =====
+Getting Started
+To get started, select the 
+appropriate user record for this 
+agent. The drop down to select 
+user records should only show 
+user records with the 
+appropriate user perms 
+associated. 
+If you don’t see the desired 
+user record to conﬁgure the 
+agent with, go back to 
+Salesforce Go user creation and 
+setup step to make sure the 
+user record is veriﬁed.
+Create and Conﬁgure
+2
+Enable Agentforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 38 =====
+Getting Started
+Fill out the remaining details as 
+desired. 
+The Agent Name ﬁeld is the 
+“internal name” that will not be 
+shown in emails or any external 
+engagement. We recommend 
+you to create unique internal 
+names to diﬀerentiate between 
+multiple agents of the same 
+type. 
+Select the company name, 
+default language, and company 
+description. This information 
+will be used by the agent to 
+further personalize the emails.
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 39 =====
+Conversation Settings
+This is the core of personalizing 
+your agents. Provide the agent 
+with details on the primary 
+value proposition and key 
+achievements such that the 
+agent will use the information 
+appropriately. 
+See the examples for reference 
+and adapt based on your 
+company information. 
+These values will be stored and 
+translated to topic instructions 
+for the agent. 
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 40 =====
+Conversation Settings
+Once you’re happy with your 
+inputs try testing your agent! 
+You can use the right chat 
+panel to simulate being a 
+website visitor. This will mock a 
+conversation with the Agent
+Note that going through this 
+ﬂow will create a record in the 
+CRM, so you may need to 
+clean up those records later
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 41 =====
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+Product Knowledge
+Associate the agent with the 
+data library you created in 
+Salesforce Go. 
+It takes a few hours for all 
+uploaded ﬁles to be ready for 
+agent preview. Therefore, if 
+you have not pre-created the 
+library and uploaded ﬁles, 
+expect some delay in the 
+uploaded knowledge to be 
+available for the agent. 
+
+
+===== PAGE 42 =====
+Product Knowledge
+Test your agent responses! You 
+can simulate a conversation 
+here to see how it would 
+answer questions
+If the agent is grounded on this 
+knowledge and it is “ready” for 
+usage, the agent should 
+respond appropriately to any 
+questions asked. 
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 43 =====
+Capture Prospect 
+Information
+Set what types of records you 
+want your agent to create. You 
+can chose Leads, Contacts or 
+Person Accounts (if you enable 
+them in your org).
+You will need to set a default 
+value for Status as we don’t 
+want the agent to ask 
+customers for that information
+The agent will set the owner 
+of the record based on your 
+existing Lead Assignment 
+Rules
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 44 =====
+Capture Prospect 
+Information
+Optionally, you can choose to 
+enable OTP, which will send an 
+authentication code to 
+customers before creating a 
+record of them to verify their 
+email.
+Lastly, you need to set a 
+fallback meeting owner to 
+schedule meetings with in case 
+there is no lead owner.
+This fallback user must have 
+connected an Email via Inbox
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 45 =====
+Review and Activate
+You’re done! If you are happy 
+with your agent, go ahead and 
+activate the agent!
+This agent is activated, but is 
+not live on your website yet. 
+In order to do this, we will 
+have to connect Agent to your 
+Website via Runtime
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 46 =====
+Turn agent on for your 
+website
+Return back to Salesforce Go → 
+Inbound Lead Generation to go 
+live on a Website.
+First click on the “Connect 
+Channel” link under “Connect 
+your Agent to a Messaging 
+Channel” section
+Create and Test
+2
+Enable Agentforce for Sales
+1
+Runtime & Monitoring
+3
+
+
+===== PAGE 47 =====
+Turn agent on for your 
+website
+Click Start in the new pop-up
+Create and Test
+2
+Enable Agentforce for Sales
+1
+Runtime & Monitoring
+3
+
+
+===== PAGE 48 =====
+Turn agent on for your 
+website
+Choose “Enhanced Chat”
+Create and Test
+2
+Enable Agentforce for Sales
+1
+Runtime & Monitoring
+3
+
+
+===== PAGE 49 =====
+Turn agent on for your 
+website
+Choose whatever Name you 
+want for your website. Choose 
+“Web” as Deployment type. Type 
+in your Domain of your website.
+If you are using Experience 
+Cloud, instead type in your 
+Experience Cloud URL. For more 
+information on Experience 
+Cloud, click here.
+Create and Test
+2
+Enable Agentforce for Sales
+1
+Runtime & Monitoring
+3
+
+
+===== PAGE 50 =====
+Turn agent on for your 
+website
+Select “Agentforce Service Agent” 
+routing. Choose the name of the 
+Agent that you created previously 
+in this guide.
+Choose “MIAW Queue” for the 
+Fallback Queue. We created this 
+for you automatically within Go.
+Create and Test
+2
+Enable Agentforce for Sales
+1
+Runtime & Monitoring
+3
+
+
+===== PAGE 51 =====
+Turn agent on for your 
+website
+Approve the terms and 
+conditions and click “Save”
+Create and Test
+2
+Enable Agentforce for Sales
+1
+Runtime & Monitoring
+3
+
+
+===== PAGE 52 =====
+Turn agent on for your 
+website
+Wait for your web channel to be 
+created. It will take a few 
+minutes.
+Create and Test
+2
+Enable Agentforce for Sales
+1
+Runtime & Monitoring
+3
+
+
+===== PAGE 53 =====
+Turn agent on for your 
+website
+Go to Settings → Embedded 
+Service Deployments.
+After going through the previous 
+steps, you will have created a 
+Web channel automatically tied 
+to your agent. Last step is 
+embedding it on your website
+Create and Test
+2
+Enable Agentforce for Sales
+1
+Runtime & Monitoring
+3
+
+
+===== PAGE 54 =====
+Turn agent on for your 
+website
+Select your Embedded Service 
+Deployment for your newly 
+created site. It should have a 
+similar name to the Channel 
+Name you deﬁned earlier.
+Click the “Switch to V2” Button in 
+the top right to enable the 
+newest chat interface. Here you 
+can see we’ve already clicked it, 
+because you can always switch 
+back
+Afterwards, click “Code Snippet”
+Create and Test
+2
+Enable Agentforce for Sales
+1
+Runtime & Monitoring
+3
+
+
+===== PAGE 55 =====
+Turn agent on for your 
+website
+You are given the code snippet 
+that you can embed onto your 
+website here. Deploy this code 
+onto your site and your agent will 
+be live!
+Create and Test
+2
+Enable Agentforce for Sales
+1
+Runtime & Monitoring
+3
+
+
+===== PAGE 56 =====
+Monitor your live agents
+Want to see what your agent on 
+your website is up to? Go to 
+“Omni Supervisor” in the App 
+Launcher, and you can go to the 
+“AI Agents” subtab to see them.
+Create and Test
+2
+Enable Agentforce for Sales
+1
+Runtime & Monitoring
+3
+
+
+===== PAGE 57 =====
+Agentforce 
+Sales for Lead 
+Nurturing
+Setup Guide
+
+
+===== PAGE 58 =====
+Conﬁdential
+Lead Nurturing
+Lead Generation
+How Agentforce Generates & Nurtures Leads
+Generate New Leads 
+on the Web
+Expand your existing web agent to 
+capture interest, qualify leads, and book 
+meetings in real-time
+01
+Nurture Leads 
+by Email
+Follow up with personalized email 
+outreach, timely responses, and pass 
+qualiﬁed leads to sellers
+02
+
+
+===== PAGE 59 =====
+Engage leads in real time
+Autonomously answer product questions, 
+handle objections, and book meetings
+Personalize conversations at scale
+Relevant responses, grounded in your sales and 
+customer data, that resonate with prospects 
+Automate prospecting with conﬁdence
+Monitor performance, ensure seamless hand-oﬀ from 
+agent to seller, and measure ROI 
+Lead Nurturing
+Maximize pipeline by nurturing leads and 
+contacts in a personalized way, 24/7
+
+
+===== PAGE 60 =====
+How Agentforce Nurtures Leads 
+Outcome
+Subject: Explore 
+Opportunities with 
+Welo
+Hello Jessica,
+We noticed your 
+interest in our Atlas 
+Power Supply. 
+Would you be open 
+to a meeting to learn 
+more?
+Select appropriate response 
+based on lead reply from 
+OOTB capabilities below
+Book Meeting
+Generic Handoﬀ
+Starts with…
+Nurture
+Agent Autonomously Replies
+Engage
+Send Nudges
+Hello Jessica,
+ 
+Thank you for 
+attending our recent 
+webinar on latest 
+innovations. As you 
+can see, we’ve made 
+great strides in our 
+power supply units. 
+Perhaps we can ﬁnd 
+time to connect this 
+week?
+Answer Questions
+Prospect is Assigned to Agent 
+(Automated or Manual)
+Agent Nurtures the Prospect 
+with Multitouch Nudges
+Agent Qualiﬁes the Lead and 
+Books a Meeting
+Nurture
+Build 
+Pipeline
+
+
+===== PAGE 61 =====
+Watch the Demo 
+Note: Name has been updated to Lead Nurturing
+Agentforce
+Lead Nurturing
+
+
+===== PAGE 62 =====
+Agentforce Sales for Lead Gen & Nurturing E2E Walkthrough 
+External Link (TBD)
+Agentforce
+Lead Nurturing
+
+
+===== PAGE 63 =====
+START
+Lead or Prospect
+Product Q&A
+Generic Response
+Meeting Response
+Agent Topic: Initial Outreach
+Agent Topic: Manage 
+Opt-Out
+Does Not 
+Reply
+Oﬀ-topic 
+Response
+Asks 
+Questions
+Interested 
+in meeting
+Agent Testing Overview
+Assign Lead to Agent
+(Manual or Automatic)
+Agent Topic: Follow-up 
+Outreach 
+Lead Nurturing 
+Agent
+Reply with 
+Opt Out
+END
+
+
+===== PAGE 64 =====
+Lead Nurturing Agent High-level Architecture 
+Email storage processing depends on your Einstein Activity Capture (EAC) settings. Find more information here. 
+
+
+===== PAGE 65 =====
+Topics
+Description
+Filters
+Actions 
+Action 
+Type
+Initial 
+Outreach 
+Write a compelling and engaging business to business 
+initial outreach email to capture new prospects' 
+interest, establish a strong connection, and encourage 
+a response or meeting.
+‘OrchestrationStag
+e = "Intro"'
+Get Record 
+Details
+Invocable 
+Action
+Follow-up 
+Outreach
+Write personalized follow-up nudges for prospects who 
+haven't responded to previous outreach emails.
+OrchestrationStage 
+= "Nudge"'
+Get Record 
+Details
+Invocable 
+Action
+Meeting 
+Response 
+Responds to inquiries from prospects interested in 
+booking a meeting or connecting with the seller.
+OrchestrationStage 
+= "Reply"'
+Get Record 
+Details
+Invocable 
+Action
+Return Calendar 
+Link
+Flow
+Product Q&A 
+Responds to prospect's email inquiries about products 
+or services based on available knowledge. If there is 
+meeting intent, then answer the inquiry and set up a 
+meeting.
+OrchestrationStage 
+= "Reply"'
+Get Record 
+Details
+Invocable 
+Action
+Answer 
+Questions with 
+Knowledge
+Standard 
+RAG
+Return Calendar 
+Link
+Flow
+Manage Opt 
+Out 
+Responds to prospect requests to opt out of future 
+emails, stop receiving emails, or any other variations 
+that could mean a desire to opt out, stop, and 
+unsubscribe from emails.
+OrchestrationStage 
+= "Reply"'
+Opt Out
+Flow
+Generic 
+Response
+Responds to prospect's email messages and inquiries 
+that are non-business related and personal.
+OrchestrationStage 
+= "Reply"'
+Get Record 
+Details
+Invocable 
+Action
+Agentforce Sales for Lead Nurturing Topics & Actions
+
+
+===== PAGE 66 =====
+Agentforce Sales for Lead Nurturing Expected Behavior
+
+
+===== PAGE 67 =====
+✔ Have a large volume of leads
+✔ Are unable to nurture and respond 
+quickly to leads
+✔ Use email to engage leads
+✔ Need to increase sales rep 
+productivity by oﬄoading low-value 
+work
+✔ Aim to automate and optimize the 
+lead qualiﬁcation while personalizing 
+outreach
+✔ Need to streamline meeting 
+scheduling and ensure only 
+sales-ready leads reach your team
+✔ Strive to equip reps with information 
+gathered from leads before their 
+conversations
+Lead Nurturing is a great ﬁt if you…
+Identifying Your Use Case Fit
+
+
+===== PAGE 68 =====
+Yes
+No
+Objects
+Do you currently use or plan to use the Salesforce Lead object, Contact Object, 
+or Person Account object?
+✔
+✗
+Digital Channels
+Do you currently use or will you be using email to engage with leads or 
+prospects? 
+✔
+✗
+Can you provision a dedicated email for the Lead Nurturing Agent?
+✔
+✗
+Product 
+Supporting 
+Features
+Do you currently use or are you willing to use Einstein Activity Capture?  And 
+are you comfortable with emails being captured and stored on Hyperforce and 
+AWS?  Considerations for using EAC
+✔
+✗
+Are you currently not using Activity 360?
+✔
+✗
+Do you currently use or are you willing to use Salesforce Inbox OR a third-party 
+booking system to schedule meetings between leads, prospects, and sales 
+reps?
+✔
+✗
+Sandbox 
+Readiness
+Is Data Cloud properly enabled in your Sandbox environment? 
+✔
+✗
+All of these conditions must be met to activate Agentforce for Sales
+Technology Considerations
+
+
+===== PAGE 69 =====
+Einstein Activity 
+Capture
+Inbox (Optional)
+Plan for Success
+❏
+Review Considerations for using EAC
+❏
+EAC will be conﬁgured automatically 
+when setting up your Sales Agent.
+Prime Your Team for Success with Essential Pre-Launch Activities!
+Ensure Your Organization is Agent Ready
+❏
+Enable Inbox permissions for the 
+sellers on whose behalf 
+Agentforce will be booking 
+meetings if using Salesforce’s 
+out-of-the-box scheduling 
+capability.
+❏
+Inform those sellers to connect 
+their Email and Calendar 
+Accounts so the agent can 
+provide their speciﬁc meeting 
+booking link in the email
+❏
+Inbox may require approval by 
+the customer’s security team.  
+See Security Guide for details. 
+❏
+Identify key stakeholders: 
+❏
+Who will be creating and testing the agent? 
+❏
+Who will be using the agent in production?
+❏
+Who will be reviewing agent output and deciding whether 
+additional outreach customization will be required?
+❏
+If customization is required, who will be customizing, testing, and 
+reviewing the prompts? 
+❏
+Determine which leads will be given to the work and how to segment them
+❏
+Determine what types of questions the agent should answer, and prepare the 
+knowledge ﬁles to train the agent
+❏
+Provision a new email address on 
+your company’s domain to be used 
+solely by the agent. 
+Agent Email
+Launchpad Checklist
+
+
+===== PAGE 70 =====
+Feature
+SKU Name
+Lead Nurturing Agent uses the feature to:
+Einstein Activity Capture (EAC)
+Agentforce* 
+-and/or-  
+Salesforce Foundations - Entitlement
+Access it’s inbox using your email application and ensure the 
+emails are captured in Salesforce.  The agent uses EAC when 
+generating outreach and reply emails.  
+Automated Actions
+Agentforce*
+-and/or-  
+Salesforce Foundations - Entitlement
+Add, remove, and manage leads or prospects in outreach 
+cadences.
+Salesforce Inbox (Optional)
+Agentforce*
+-and/or-  
+Salesforce Foundations - Entitlement
+Generate a personalized meeting booking link on behalf oﬀ the 
+seller. Salesforce Inbox is only required to use Salesforce’s 
+out-of-the-box Scheduling capability. If using an external meeting 
+link, Inbox is not required.
+Data Cloud -
+Retrieval Augment Generation (RAG)
+Data Cloud** 
+-and/or- 
+Salesforce Foundations - Data Cloud 
+Segmentation and Activation and Data 
+Cloud Provisioning
+Generate relevant and accurate responses to lead questions using 
+information you upload about your company.  Provide auditing, 
+feedback, Trust Layer, and analytics.  
+* Need to ensure Data Cloud is properly enabled in Sandbox Environment. See Data Cloud Missing from Sandbox Env for more information.
+Lead Nurturing Required Features
+
+
+===== PAGE 71 =====
+Permission Set(s)
+Description
+SDR Agent User
+●Agentforce SDR Agent
+Allows the SDR Agent [user record] to reach out to prospects 
+automatically with full reporting capabilities
+Sales Manager / Admin
+●Conﬁgure Agentforce SDR Agent
+●Data Cloud User
+Allow sales manager to  view and conﬁgure the SDR Agent in Agent 
+Builder, manage, and deploy SDR Agent for prospect outreach 
+Sales User
+●Use Agentforce SDR Agent
+●Inbox Perm
+○
+Inbox With Einstein Activity Capture is 
+recommended (see slide for more 
+details)
+Allow sales users to access and interact with Agentforce SDR, and 
+send leads to SDR Agent
+Salesforce Help: Lead Nurturing Agent Permission Sets
+Lead Nurturing Permissions
+
+
+===== PAGE 72 =====
+Enable required 
+features and 
+complete 
+prerequisite setup 
+steps
+Simple No-Code 
+Agent Creation 
+and Testing
+Monitor your 
+agent activity and 
+outcomes
+Create and Test
+2
+Enable Agentforce for Sales
+1
+Runtime & Monitoring
+3
+Implementation Guide Overview 
+Time: 5 mins
+Time: 5-7 mins
+Time: 3-5 mins
+
+
+===== PAGE 73 =====
+Discover Agentforce for 
+Sales in Salesforce Go
+Find Salesforce Go in 
+Setup. 
+Discover Agentforce for 
+Sales in Go Home. 
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 74 =====
+Discover Agentforce for 
+Sales in Salesforce Go
+Turn on Agentforce.
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 75 =====
+Discover Agentforce for 
+Sales in Salesforce Go
+Verify that Agentforce is 
+on. 
+You can see subsequent 
+Sales Agent Templates 
+once Agentforce is on.
+Salesforce Help: Turn On Lead Nurturing
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 76 =====
+Activate Sales Agent for 
+Lead Nurturing
+Turn on Sales Agent for 
+Lead Nurturing. 
+View all features that will 
+be turned on 
+automatically. 
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 77 =====
+Activate Sales Agent for 
+Lead Nurturing
+Review the disclaimers 
+before feature activation. 
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 78 =====
+Activate Sales Agent for 
+Lead Nurturing
+Once activated, you will 
+see a veriﬁcation toast 
+message and subsequent 
+setup steps. 
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 79 =====
+Manage Agent’s User 
+Record and Email
+Give users access to Sales 
+Agent for Lead Nurturing. 
+Click ‘Manage’.
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 80 =====
+Create or Conﬁgure 
+Agent User and Email
+Like human users, agents 
+need a user record in 
+Salesforce, along with an 
+associated email address.
+Select an existing Agent User 
+Record or 
+select ‘+ New User’ to create 
+a new User Record.
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 81 =====
+Create or Conﬁgure 
+Agent User and Email
+Enter the ﬁrst and last name 
+for your agent. Customers 
+will see these details when 
+your agent sends emails.
+Click ‘Create’.
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 82 =====
+Create or Conﬁgure 
+Agent User and Email
+To ensure your agent has 
+adequate permissions, a few 
+user requirements will be 
+veriﬁed. Next, we’ll connect 
+your agent’s email account.
+Click ‘Next’.
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 83 =====
+Create or Conﬁgure 
+Agent User and Email
+Click ‘Connect Account’.
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 84 =====
+Create or Conﬁgure 
+Agent User and Email
+Before continuing, review 
+and accept the agreement 
+for sharing emails and 
+events.
+Click the checkbox to 
+accept the terms, then click 
+‘Next’.
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 85 =====
+Create or Conﬁgure 
+Agent User and Email
+Select the preferred Email 
+and Calendar provider to 
+open a new window with 
+additional conﬁguration 
+steps before ﬁnishing the 
+Agent User setup.
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+Salesforce Help: Assign Agentforce User Permissions for Lead Nurturing
+Salesforce Help: Lead Nurturing Agent Permissions Sets
+
+
+===== PAGE 86 =====
+Conﬁgure Data for Your 
+Agent
+Manage the data your 
+agent will use to answer 
+questions or complete 
+tasks
+Click ‘Go to Agentforce 
+Data Library Setup’. 
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 87 =====
+Conﬁgure Data for Your 
+Agent
+Your Sales Agent can use 
+‘Retrieval Augmented 
+Generation’ to provide 
+accurate answers or 
+complete tasks eﬃciently.
+Click ‘New Library’.
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 88 =====
+Conﬁgure Data for Your 
+Agent
+Deﬁne your Name and 
+Description for the new 
+Data Library
+Click ‘Save’.
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 89 =====
+Conﬁgure Data for Your 
+Agent
+Deﬁne your Name and 
+Description for the new 
+Data Library
+Click ‘Save’.
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+
+
+===== PAGE 90 =====
+Go to Agentforce 
+Builder to Create & 
+Conﬁgure your agent
+The next part of setup is 
+conﬁguring the details of how 
+your agent operates, including 
+its working schedule, timing 
+and frequency of outreach, and 
+how it drafts initial emails and 
+answers to lead questions.
+Click Go.
+Create and Test
+2
+Enable Agentforce Sales
+1
+Runtime & Monitor
+3
+Salesforce Help: Assign Agentforce User Permissions for Lead Nurturing
+Salesforce Help: Lead Nurturing Agent Permissions Sets
+
+
+===== PAGE 91 =====
+Build a New Agent
+Simpliﬁed Creation Experience 
+allows for fast and no-code 
+agent setup. 
+To create a new Agent, click 
+‘Build a New Agent’.
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 92 =====
+Edit an Existing Agent
+Any agent created through this 
+new experience can be edited if 
+the following conditions are 
+met:
+1.
+Agent is not edited 
+outside of this 
+experience (ex. in 
+Builder or NGA)
+2.
+Agent is deactivated
+If not, you will see a link to edit 
+the agent in Builder.
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 93 =====
+Sales Agent 
+Conﬁguration: 
+Select Agent Template
+Choose the agent template you 
+want to create. Select ‘Lead 
+Nurturing’, then click 
+‘Continue’.
+If you don’t see the template, 
+the necessary prerequisites are 
+not yet turned on in Go. Go 
+back to Salesforce Go to make 
+sure the feature is enabled 
+properly.
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 94 =====
+Getting Started
+To get started, select the 
+appropriate user record for this 
+agent. The drop down to select 
+user records should only show 
+user records with the 
+appropriate user perms 
+associated. 
+If you don’t see the desired 
+user record to conﬁgure the 
+agent with, go back to 
+Salesforce Go user creation and 
+setup step to make sure the 
+user record is veriﬁed.
+Create and Conﬁgure
+2
+Enable Agentforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 95 =====
+Getting Started
+Fill out the remaining details as 
+desired. 
+The Agent Name ﬁeld is the 
+“internal name” that will not be 
+shown in emails or any external 
+engagement. We recommend 
+you to create unique internal 
+names to diﬀerentiate between 
+multiple agents of the same 
+type. 
+Select the company name, 
+default language, and company 
+description. This information 
+will be used by the agent to 
+further personalize the emails.
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 96 =====
+Email Settings
+This is the core of personalizing 
+your agents. Provide the agent 
+with details on the primary 
+value proposition and proof 
+points such that the agent will 
+use the information 
+appropriately. 
+See the examples for reference 
+and adapt based on your 
+company information. 
+These values will be stored and 
+translated to topic instructions 
+for the agent. 
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 97 =====
+Email Settings
+You can also set the maximum 
+number of nudges. This is the 
+total number of nudge 
+attempts the agent will send to 
+a prospect before stopping any 
+further engagement. 
+Set the tone for the agent, and 
+adjust the signature that gets 
+appended to the email by 
+adjusting the AI Disclosure note 
+and Opt-Out Message. 
+Signature ﬁelds are stored and 
+translated as agent “surface 
+instructions” which are not 
+editable in Builder today. 
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 98 =====
+Email Settings
+Once you’re happy with your 
+inputs try testing your agent! 
+Select a lead/contact record in 
+your CRM and select the 
+scenario and click “Generate 
+Preview” 
+This will load the preview of the 
+email that the agent “would” 
+send to the prospect with the 
+provided information. Keep 
+playing around with the inputs 
+until you are satisﬁed with the 
+output!
+This will not actually send an 
+email to the selected prospect 
+record. 
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 99 =====
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+Reply Settings
+Associate the agent with the 
+data library you created in 
+Salesforce Go. 
+It takes a few hours for all 
+uploaded ﬁles to be ready for 
+agent preview. Therefore, if 
+you have not pre-created the 
+library and uploaded ﬁles, 
+expect some delay in the 
+uploaded knowledge to be 
+available for the agent. 
+
+
+===== PAGE 100 =====
+Reply Settings
+Test your agent responses! 
+Select a lead/contact record 
+and ask any question in the 
+input ﬁeld (ex. What is your 
+return policy?) 
+If the agent is grounded on this 
+knowledge and it is “ready” for 
+usage, the agent should 
+respond appropriately to any 
+questions asked. 
+This will not actually send an 
+email to the selected prospect 
+record. 
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 101 =====
+Assign Prospects
+Set the rules of engagement for 
+your agent. Simply toggle leads, 
+contacts, or person accounts 
+depending on how you deﬁne 
+your prospects. 
+Set the rule for engaging by 
+adding conditions for each 
+object. The agent will not get 
+assigned to prospects until the 
+agent is “activated”
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 102 =====
+Assign Prospects
+Set the rules of engagement for 
+your agent. Simply toggle leads, 
+contacts, or person accounts 
+depending on how you deﬁne 
+your prospects. 
+Set the rule for engaging by 
+adding conditions for each 
+object. The agent will not get 
+assigned to prospects until the 
+agent is “activated”
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 103 =====
+Review and Activate
+You’re done! If you are happy 
+with your agent, go ahead and 
+activate to have prospects 
+assigned to your agent. You can 
+also proceed without activating 
+to continue manual testing in 
+runtime. 
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 104 =====
+Test Lead Auto 
+Assignment Criteria
+For example, you could update 
+the lead’s Rating ﬁeld to Cool to 
+match the assignment criteria 
+set previously.
+This ﬁeld update triggers the 
+Agent to begin outreach to the 
+lead.
+test email
+Create & Test
+2
+Enable Agentforce for Sales
+1
+Runtime  Monitoring
+3
+
+
+===== PAGE 105 =====
+Activate Agent Manually
+
+
+===== PAGE 106 =====
+Prepare for Testing - Add 
+the Activate Assign to 
+Agentforce SDR Action
+You can manually activate the 
+SDR Agent on lead records using 
+the Activate Assign to 
+Agentforce SDR action.
+To add the action to a lead page 
+layout, go to Object Manager > 
+Lead > Page Layouts > SDO Lead 
+> Mobile Lightning Actions. Then 
+add the Activate Assign to 
+Agentforce SDR action.
+Create and Test
+2
+Enable Agentforce for Sales
+1
+Runtime & Monitoring
+3
+
+
+===== PAGE 107 =====
+Add Activate Assign to 
+Agentforce SDR Button
+Once added to the lead page 
+layout, you’ll see 
+ActivateAssign to Agentforce 
+SDR in the Actions menu on 
+lead record page. 
+test email
+Create and Test
+2
+Enable Agentforce for Sales
+1
+Runtime & Monitoring
+3
+
+
+===== PAGE 108 =====
+Test the Send Initial 
+Outreach Email action
+You can test the initial outreach 
+email by activating the agent on 
+the test lead record you 
+created. 
+ 
+1.
+To manually assign the 
+lead to the agent, click 
+Activate Assign to 
+Agentforce SDR on the 
+lead record, OR
+2.
+To test auto lead 
+assignment, update the 
+lead ﬁelds to meet the 
+assignment criteria set 
+in the Engagement 
+Rules for the agent.
+test email
+Create and Test
+2
+Enable Agentforce for Sales
+1
+Runtime & Monitoring
+3
+
+
+===== PAGE 109 =====
+Customization 
+Guide
+Agentforce Sales for Lead Nurturing
+Agentforce
+
+
+===== PAGE 110 =====
+What are Topics 
+and Instructions?
+A topic is a set of instructions (and optionally, actions) that 
+make up the jobs an agent can do. Instructions help with the 
+generation, formatting, and sequencing of our response and 
+conversation.
+The Classiﬁcation 
+Description 
+describes the job of 
+the topic and what 
+kinds of user 
+messages should 
+trigger it.
+Generally, focus on 
+Instructions for 
+changes to the 
+content and tone of 
+your emails.
+The Scope sets 
+boundaries for what 
+the agent is capable 
+of doing within the 
+same topic.
+
+
+===== PAGE 111 =====
+Agentforce Sales for Lead Nurturing Topics
+Six (6) out of the box topics are provided
+Initial Outreach
+Follow-Up Outreach
+Generic Response
+Product Q&A
+Meeting Response
+The ﬁrst, introductory email 
+sent to the prospect.
+Nudge emails if the prospect 
+does not engage or reply.
+Reply email handing oﬀ 
+prospect to the seller (lead 
+owner) if the reply is “not right 
+now” or an oﬀ-topic inquiry. 
+Reply email for meeting 
+booking.  Includes meeting 
+booking link*, or seller (lead 
+owner) contact info.
+Reply email answering product 
+questions* and handling 
+objections.  Includes meeting 
+booking link**.
+Topics are conﬁgured in Agentforce Builder
+*Data Cloud (RAG) required
+**Inbox must be enabled
+*Inbox required
+*Inbox must be enabled
+Manage Opt-Out
+Reply email when the prospect 
+requests to no longer receive 
+messages and removes them from 
+the cadence.
+
+
+===== PAGE 112 =====
+Initial Outreach
+Key Areas
+Email Subject Line
+Instructions to generate short and 
+compelling subject lines
+Email Body
+Instructions on formatting and types of 
+sentences to include, along with social and 
+language conventions to follow
+Prospect Information 
+Info gathered via actions from CRM about 
+your prospect — may include name, title, 
+industry, company, led source, lead country
+Agent Company Selling Point(s)
+Proof Points provided during Setup
+Agent Company Information 
+Info from CRM about your company to help 
+ground the agent, including
+company name, role, and title
+Call to Action
+Instructions for the agent to ask a question 
+that will encourage the lead to engage
+What to Add:
+Industry and Title Based KPIs 
+KPIs that we can highlight based on the 
+prospect proﬁle in the instructions
+Section
+Agent Output
+Subject: Optimizing Your Data Center Operations
+Hi Andy,
+I’m reaching out from Welo, a leading provider of IT 
+solutions and services specializing in cutting-edge 
+hardware and comprehensive data center management. 
+We’ve helped organizations like yours streamline 
+operations and achieve measurable results, such as a 
+30% increase in sales for a major retail chain and a 
+20% reduction in administrative costs for a healthcare 
+provider.
+I’d love to explore how we can help Universal 
+Technologies optimize your data center operations to 
+drive eﬃciency and innovation. Are you available for a 
+quick call this week to discuss further?
+Looking forward to connecting!
+Best regards,
+[Your Name]
+[Your Position]
+Welo
+[Your Contact Information]
+Email Subject Line
+Prospect Information
+Agent Company Selling Point 
+Agent AI Disclosure
+Agent Company Information
+Call to Action
+Email Body
+
+
+===== PAGE 113 =====
+Initial Outreach Topic Instructions Inventory & Suggestions
+Based on OOTB Agentforce Sales for Lead Nurturing Setup
+Instruction Name
+OOTB Instruction
+Considerations & Possible Changes
+Example(s) of Changed Instruction(s)
+Prospect 
+Information
+Call the Get Record Detail action to get recipient's 
+preferred name, title, and industry information by 
+using currentRecordId.
+-
+Add additional ﬁelds from your 
+speciﬁed object for personalization
+-
+Edit: “Call the Get Record Detail 
+action to get recipient’s preferred 
+name, title, industry information, and 
+lead source by using currentRecordId 
+and personalize the email based on 
+the information found.”
+Opening & CTA 
+Content
+The opening line of the email body must be 
+simple, clear, and direct, strictly avoiding any 
+well-wishes or pleasantries. End the email with a 
+light, urgent, yet low-friction call to action.
+-
+Provide more information on how 
+you want you CTAs to be, perhaps 
+removing the “Looking forward to 
+meeting you.” type closing.
+-
+You could also add instructions to 
+modify your seller signoﬀ here, 
+reducing the amount of information 
+or adding an AI disclosure 
+additionally within the email body.
+-
+Edit: “End the email with a clear, one 
+sentence call to action in second 
+person directly to the recipient. Do not 
+include closing pleasantries such as 
+“Looking forward to connecting.”
+-
+In the closing, only include your 
+name and title.”
+
+
+===== PAGE 114 =====
+Initial Outreach Topic Instructions Inventory & Suggestions
+Based on OOTB Agentforce Sales for Lead Nurturing Setup
+Instruction Name
+OOTB Instruction
+Considerations & Possible Changes
+Example(s) of Changed Instruction(s)
+Seller Company 
+Information
+Leverage proven cold email strategies and use the 
+Company Description, Primary Value Proposition, 
+and Proof Points to write the email.
+ # Company Description
+[INSERT COMPANY DESCRIPTION HERE]
+ # Primary Value Proposition
+[INSERT PRIMARY VALUE PROPOSITION HERE]
+ # Proof Points
+ [INSERT PROOF POINTS HERE]
+-
+Consider editing this to be more 
+speciﬁc to the types of roles, titles, or 
+industries you may reach out to.
+-
+You might also edit this to adjust the 
+tone to be more neutral for the agent 
+to change or to ﬁt whichever tone 
+you want the agent to follow.
+-
+Include links for proof points to 
+product pages or demos you may 
+want the Agent to send in the email
+-
+Add: “Only include proof points and 
+value props that are relevant to 
+someone in the job of recipient’s 
+industry and title.”
+Personalization 
+Parameters & 
+Language
+Indirectly use the recipient's industry and title to 
+write a cold outreach email. You must not mention 
+their role or industry directly, instead mention 
+speciﬁc factual challenges or relevant 
+responsibilities tied to their industry and title. 
+Avoid generic language and buzzwords or phrases.
+-
+Add additional methods for 
+personalization here or create a new 
+instruction. Specify how to 
+personalize based on diﬀerent 
+details.
+-
+Add: “The language, tone and 
+verbiage for this email must be 
+tailored for communication to a 
+current/existing Welo customer who 
+already owns Welo products and/or 
+services and is not a net new 
+prospect.”
+
+
+===== PAGE 115 =====
+Agent Behavior Design Best Practices
+ 
+115
+Guardrail Language
+Content Considerations
+Things to Avoid
+Use “must” instead of “should”
+When customizing instructions, here is language that really works! 
+Use “strictly” for a strong command
+Use “within” + [character count] to 
+control content length
+Format guardrails as “you” + “must” + verb 
+Be speciﬁc about language or 
+sentences you want or don’t want (e.g. 
+“Never ask rhetorical questions.”)
+Use “always” when you want consistency
+Overediting the Classiﬁcation 
+Description or Scope, as it may cause 
+the incorrect email to be sent
+Use strong verbs like “don’t” and “stop” 
+Encourage LLM to have variety with the 
+descriptor “creative” 
+Use “never” for absolute guardrails
+Including too many few-shot 
+examples, which may constrain the 
+model’s ability to generate unique and 
+personalized messaging
+
+
+===== PAGE 116 =====
+Recommended Customizations Checklist
+Advanced Customization Library  
+Customization
+Description
+Guidance
+Update ﬁelds on CRM records based 
+on agent engagement with a lead
+Allows your team and Agentforce to have more 
+context on your recent interactions with leads
+Create a custom Flow action to execute the speciﬁed 
+action and modify the Topic instructions to prioritize 
+that action
+Create a task for a seller to take 
+action, based on Lead Nurturing 
+engagement
+Improves the handoﬀ process between Agentforce 
+and your team
+Create an action that creates tasks for Sellers and add 
+an instruction to call the action when needed
+Change Default AI Disclosure
+Makes sure your AI Disclosures are compliant and 
+ﬂow well with the rest of the content of your email
+Modify this during Set Up and include legal and 
+marketing early on to provide speciﬁc language
+Engage Leads in Multiple Languages 
+Reach a broader, global audience
+-
+Option 1: Build multiple agents and set 
+diﬀerent languages during set up, assigning 
+leads to diﬀerent agents depending on 
+language.
+-
+Option 2: The agent generally responds to 
+diﬀerent languages in that same language, so 
+simply adjust instructions as needed and make 
+sure to account for cultural diﬀerences with 
+respect to tone, diction, formality, and more. 
+However, your Initial Outreach email will 
+remain in the set language.
+
+
+===== PAGE 117 =====
+Recommended Customizations Checklist
+Advanced Customization Library (Cont.)
+Customization
+Description
+Guidance
+Change email formatting to include 
+bolding/italics/images
+Makes emails easier to parse and read for recipients, 
+along with highlighting the most important information
+Edit instructions to include general formatting 
+or speciﬁc HTML tag instructions, such as:
+-
+ ***Your output must:
+- Use HTML to highlight key phrases 
+and numbers in bold
+- Not include CSS attributes, 
+explanations, notes, or the <html> tag
+Include a generic meeting link 
+instead of a Lead Owner’s link
+Allows leads to see more availability and your team to take 
+meetings at their convenience
+Embed the link into the meeting response 
+topic and change Instructions to always set 
+“Lead Owner has Inbox Disabled”
+Ask qualiﬁcation questions when 
+customers request a meeting
+Improves the handoﬀ process and provides Agentforce 
+more frameworks for understanding and communicating 
+with the lead
+Create custom ﬂow actions for tasks and ﬁeld 
+updates, update Respond to Prospect Topic 
+instructions, customize Topics to  incorporate 
+qualiﬁcation questions
+Leverage speciﬁc data stored in Data 
+Cloud to personalize the email
+Give Agentforce more ﬂexibility in providing information 
+on a wide variety of topics about your company
+Add Data Libraries to your Agent
+
+
+===== PAGE 118 =====
+Recommended Customizations Checklist
+Advanced Customization Library (Cont.)
+Customization
+Description
+Guidance
+Disengage Lead Nurturing Agent for any 
+reason and skip sending an email
+Gives you more ﬂexibility on when you want a human to 
+take over for Agentforce or remove leads from the cadence
+Create a custom Flow action to remove the agent 
+from the cadence. Use the Salesforce OOTB Opt 
+Out Lead Action as a starting point.
+Conﬁgure Lead Nurturing Agent to 
+determine a new lead owner & hand oﬀ 
+to that person 
+Hand oﬀ leads depending on the actual contents of their 
+conversation to assign leads based on their individual 
+skillsets
+Create a custom action that determines the new 
+lead owner. Call that action prior to drafting & 
+scheduling the email by editing Topic Instructions.
+
+
+===== PAGE 119 =====
+Important 
+Considerations
+Agentforce Sales for Lead Nurturing
+Agentforce
+
+
+===== PAGE 120 =====
+●
+Only Admins with Conﬁgure Agentforce SDR Agent can create the agent.
+●
+Standard users must have Use Agentforce SDR perm to engage with the agent directly 
+(activate/cancel outreach, edit/reschedule outreach).
+○
+Users do NOT need special perms to be cc’d on an email as part of agent handoﬀ.
+●
+The agent works on the Lead object, Contact object, and Person Account object.
+●
+When testing in runtime, make sure the Test Lead’s email address is not part of the 
+internal domain or any other domain ﬁltered out by EAC Excluded Addresses. 
+○
+(Salesforce Help: Considerations for Excluding Data from Einstein Activity Capture)
+●
+It is part of our Acceptable Use Policy and part of the California Bots Law that an AI 
+Agent must disclose itself as such. To honor this, Agentforce Lead Nurturing employs 
+sign-oﬀ disclosure at the end of every email. This is now customizable via our 
+simpliﬁed conﬁguration experience. 
+Important Considerations
+for Sales Development 
+
+
+===== PAGE 121 =====
+●
+Each agent email can send up to 1800 emails/day, per email provider regulations. Once the agent 
+hits this limit, it will stop sending emails for the day. 
+●
+When automating assigning records to the Lead Nurturing agent, ensure that no more than 30 
+records are activated at once.  Bulk activations should occur in batches of 30, separated by at least 2 
+minutes.  
+●
+Users do not have governance or prioritization controls around the agent’s emails. For example,  
+users can’t tell the agent to prioritize replies over nudges.
+●
+A meeting booking link is present in all replies if Salesforce Inbox is enabled. 
+○
+See slides to see how to enable Salesbox Inbox. Otherwise, the agent shares the lead owner’s 
+email address only when handing oﬀ to the lead owner.
+Limitations - Email Sending & Working Leads 
+for Sales Development  
+
+
+===== PAGE 122 =====
+●
+See Troubleshoot Lead Nurturing Email in Salesforce Help for an explanation of Lead 
+Nurturing error messages and corrective actions, where applicable.  
+●
+Verify Agent is active in Agent Builder → Agent won’t work if deactivated
+●
+Inbox External Email Tracking needs to be on at the org level.
+●
+Verify an email account is connected to the agent
+●
+Ensure the lead owner has Inbox and a connected email account → impacts meeting 
+booking
+●
+Try deactivating and reactivating the agent
+●
+“Emails are not shared with you” issue on the Activity Timeline → Activity Sharing could 
+be set to “Don’t Share” for the org. 
+●
+On revising an upcoming email, we see “This action isn’t available. Ask your Salesforce 
+admin to enable email actions for this record” → Please add email quick action on the 
+record page layout.
+Common Errors & Troubleshooting
+for Sales Development   
+
+
+===== PAGE 123 =====
+Delays
+●
+Server backlog leads to delay in email processing & send (emails send when backlog is processed)
+Failure to Send Email
+●
+Agent’s User Record email address does not match the connected Account email address in Agent 
+Builder → impacts Nudges & Replies
+●
+Reusing email address between 2 separate EAC Users → impacts Replies
+●
+Reusing connected email address between the agent and another EAC User → impacts Replies (see 
+image)
+●
+Reusing email address across multiple leads assigned to the agent → occasional issues with Replies
+●
+Sender & recipient have same email domain (classiﬁes as internal email) → impacts all messages
+Email Errors - Common Reasons
+for Sales Development   
+
+
+===== PAGE 124 =====
+Emails not shared with you issue
+●
+If you see this issue “Emails are not shared with you…” on the Activity Timeline, this is probably 
+because Activity Sharing setting is set to “Don’t Share”
+●
+Fix: Edit the rules of engagement setting for the agent inside Agent Builder and click save. This will 
+update the Activity Sharing setting for the agent user to public. 
+Email Errors - Common Reasons
+for Sales Development   
+
+
+===== PAGE 125 =====
+Adding Trusted URLs to Your Agentic Outreach:
+Salesforce has begun enforcement of Trusted URL allowlists for Agentforce and Einstein Generative AI agents. This update is part of our ongoing eﬀorts to strengthen 
+customer environments. An admin-controlled allowlist will prevent agents from generating unapproved URLs aﬀecting images or content from external domains or 
+links to external documentation or third-party systems. If a domain is not on your Trusted URL list, the link will be blocked.
+What Action Do I Need to Take?
+●
+Immediately add any external URLs your agents rely on to your Salesforce Trusted URLs list or to the agent's instructions.
+●
+This includes links to things like external feedback forms, knowledge bases, or any third-party websites.
+How to Add Trusted URLs:
+1.
+Navigate to Setup.
+2.
+In the Quick Find box, search for and select Trusted URLs.
+3.
+Click New Trusted URL.
+4.
+Enter the URL (e.g., https://forms.google.com). You can use a wildcard (*) like *.example.com.
+5.
+Select the appropriate CSP directives (e.g., img-src for images).
+6.
+Ensure you have "Customize Application" and "Modify All Data" permissions.
+How to Use Agent Instructions:
+1.
+Open the agent in Agent Builder.
+2.
+In the agent instructions, add the URLs you want to allow. Note that these must be exact URLs and cannot contain wildcards.
+Important Considerations
+for Sales Development 
+To learn more about this change, see: https://help.salesforce.com/s/articleView?id=005135034&type=1
+
+
+===== PAGE 126 =====
+How to Enable Salesforce Inbox
+
+
+===== PAGE 127 =====
+Connect Sales User 
+Email Accounts to 
+Salesforce Inbox
+To let sales users view, edit 
+reschedule, or cancel Lead 
+Nurturing agent emails from 
+the Activity Timeline of leads, 
+be sure each user has 
+connected their email account 
+in their Salesforce user proﬁle.
+From the user’s Personal 
+Settings, they can click Email 
+and Calendar Accounts.
+Salesforce Help: Assign Agentforce User Permissions for Lead Nurturing
+Salesforce Help: Lead Nurturing Agent Permissions Sets
+Connect Salesforce Inbox
+
+
+===== PAGE 128 =====
+Connect User Email 
+Accounts to Salesforce 
+Inbox
+To get started, users click New 
+Account and then Connect 
+Account.
+Salesforce Help: Connect User Email Accounts to Einstein Activity Capture
+Connect Salesforce Inbox
+
+
+===== PAGE 129 =====
+Connect User Email 
+Accounts to Salesforce 
+Inbox
+Read the terms and then click 
+Next.
+Salesforce Help: Connect User Email Accounts to Einstein Activity Capture
+Connect Salesforce Inbox
+
+
+===== PAGE 130 =====
+Connect User Email 
+Accounts to Salesforce 
+Inbox
+Click the email and calendar 
+service used by your company.
+Salesforce Help: Connect User Email Accounts to Einstein Activity Capture
+Connect Salesforce Inbox
+
+
+===== PAGE 131 =====
+Connect User Email 
+Accounts to Salesforce 
+Inbox
+Select the checkboxes for Email 
+and Calendars. Then click 
+Finish.
+Salesforce Help: Connect User Email Accounts to Einstein Activity Capture
+Connect Salesforce Inbox
+
+
+===== PAGE 132 =====
+Connect User Email 
+Accounts to Salesforce 
+Inbox
+The newly connected account 
+appears in the user’s proﬁle.
+Salesforce Help: Connect User Email Accounts to Einstein Activity Capture
+Connect Salesforce Inbox
+
+
+===== PAGE 133 =====
+Grant Sales Users Access to 
+Salesforce Inbox
+Conﬁrm that at least one of the 
+permission sets to give access to 
+Salesforce Inbox has been assigned 
+to the sales user. 
+These permission sets include: 
+●
+Inbox With Einstein Activity 
+Capture
+●
+Inbox Without Einstein 
+Activity Capture
+●
+Inbox Included 
+●
+Sales Cloud Included Bundle 
+Go back to Agentforce Lead 
+Nurturing Setup Page. 
+Salesforce Help: Assign Agentforce User Permissions for Lead Nurturing
+Salesforce Help: Lead Nurturing Agent Permission Sets
+Connect Your Email and Calendar to Salesforce with Einstein Activity Capture or Inbox
+If the sales user does not have 
+any of the permissions 
+assigned, we recommend 
+selecting the Inbox Without 
+Einstein Activity Capture 
+permission set.
+Grant Sales Users Access to Inbox

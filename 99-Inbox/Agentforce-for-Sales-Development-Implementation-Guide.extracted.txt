@@ -1,0 +1,3781 @@
+
+
+===== PAGE 1 =====
+Autonomous agents to scale 
+your sales team
+May 2025
+for Sales
+
+
+===== PAGE 2 =====
+Introducing
+Fuel limitless sales teams with a digital workforce
+Maximize pipeline by nurturing inbound leads 24/7
+Sales Development
+for Sales
+
+
+===== PAGE 3 =====
+Sales
+Sellers are wasting time on low quality leads
+Drive Growth With 5 Elevated Sales-Qualiﬁed Lead Tactics
+Not All Leads Are Created Equal
+Only
+17%
+of MQL evolve 
+to SQL*
+Lead Generation
+Lead Nurture
+Close
+$$$
+Marketing
+
+
+===== PAGE 4 =====
+Lead nurturing is challenging
+Drive Growth With 5 Elevated Sales-Qualiﬁed Lead Tactics
+79%
+of marketing 
+leads never 
+convert to sales 
+due to lack of 
+nurturing
+Lead Generation
+Lead Nurture
+Close
+$$$
+Engage Prospects
+Qualify Leads
+Nudge
+Answer Question
+Handle Question
+Book Meeting
+Meet Customer
+
+
+===== PAGE 5 =====
+Never miss an inbound lead
+ Autonomously answer product questions, handle 
+objections, and book meetings 
+Personalized conversations across channels
+Relevant responses, grounded in your sales and 
+customer data, that resonate with prospects 
+Automate prospecting with conﬁdence
+Monitor performance, ensure seamless hand-oﬀ from 
+agent to seller, and measure ROI 
+Easy set up & customization
+Start in minutes with pre-built templates and customize 
+to ﬁt your business needs
+Maximize pipeline by nurturing 
+inbound leads 24/7
+Sales Development 
+Agentforce
+
+
+===== PAGE 6 =====
+Role
+Actions 
+Guardrails 
+ Channel
+Data
+What shouldn’t 
+they do
+What job 
+should they do
+What 
+knowledge can 
+they access
+What 
+capabilities do 
+they have
+Where do 
+they work
+Trust & Security
+The 5 attributes of a sales agent
+
+
+===== PAGE 7 =====
+Role
+Actions 
+Guardrails 
+ Channel
+Data
+When & how 
+often to engage 
+which leads
+Nurture 
+inbound leads 
+to advance 
+pipeline
+CRM & External 
+data
+Outreach, 
+answer 
+questions, & 
+book meeting 
+Email
+Trust & Security
+The 5 attributes of sales development
+
+
+===== PAGE 8 =====
+ Deﬁne jobs to be 
+done with
+Topics
+Send Outreach
+Respond to Prospect
+Manage Opt-Out
+Give each 
+topic speciﬁc
+Instructions
+Create and 
+assign intelligent
+Actions
+Dra Initial Outreach Email*
+1.  Always draft an email before 
+scheduling an email.
+2.  If the request is introduction, initial 
+outreach email, draft an initial 
+outreach email for user.
+3.  If the request is revise followup or 
+nudge email, then use Draft a 
+Nudge, followup or revise Email 
+action.
+4.  You must schedule an email after 
+drafting an email.
+Schedule Email
+Dra Nudge Email*
+*OOTB Prompt Templates
+Sales Development  
+Sales Development ships with pre-built, out-of-the-box 
+topics, instructions, actions, prompt templates
+Agentforce
+
+
+===== PAGE 9 =====
+ Deﬁne jobs to be 
+done with
+Topics
+Send Outreach
+Respond to Prospect
+Manage Opt-Out
+Give each 
+topic speciﬁc
+Instructions
+Create and 
+assign intelligent
+Actions
+Dra Generic Reply Email*
+1.  Always draft an email before 
+scheduling an email. 
+2. You  must schedule the email after 
+drafting an email.
+3.  You must always use context 
+variables for the input of this action.
+4.  If Lead_Owner_has_Inbox set to 
+TRUE or true, then you must add 
+“Lead Owner has Inbox Enabled” to 
+additional instruction for prompt 
+template.
+Schedule Email
+Dra Meeting Request Email*
+*OOTB Prompt Templates
+Sales Development  
+Sales Development ships with pre-built, out-of-the-box 
+topics, instructions, actions, prompt templates
+Agentforce
+Dra Email for Lead Question*
+Answer Questions with 
+Knowledge
+
+
+===== PAGE 10 =====
+ Deﬁne jobs to be 
+done with
+Topics
+Send Outreach
+Respond to Prospect
+Manage Opt-Out
+Give each 
+topic speciﬁc
+Instructions
+Create and 
+assign intelligent
+Actions
+1.  If lead or prospect has requested 
+to stop receiving messages, or to 
+opt out, you must perform the Opt 
+Out Lead action
+2.  You must always use context 
+variables for the input of this 
+action
+Opt Out Lead*
+*Flow 
+Sales Development  
+Sales Development ships with pre-built, out-of-the-box 
+topics, instructions, actions, prompt templates
+Agentforce
+
+
+===== PAGE 11 =====
+Sales Development Runtime 
+Prospect
+Send Initial Outreach Email*
+Send ‘x’ Nudge Emails*
+Send Meeting Request Email*
+Send Generic Reply Email*
+Send Email for Prospect Question*
+Agentforce SDR Agent
+Opt Out Prospect
+Send Outreach
+Respond to Prospect
+Manage Opt-Out
+No Reply
+REPLY w/ Question or 
+Meeting Request
+REPLY with OPT-OUT 
+request
+Agent Topics 
+supported by Instructions
+Agent Actions 
+supported by *Prompt 
+Templates 
+Agent Actions
+Flow
+- Initial Outreach is ﬁrst triggered 
+action after lead is assigned to 
+Agent; 1 hour delay in send
+- # of nudge or reply email attempts, 
+time between attempts, and Agent 
+outreach schedule conﬁgurable in 
+Agent Builder as engagement rules
+- Emails are captured on activity 
+timeline
+- A diﬀerent opt out ﬁeld on lead 
+record can be selected vs the 
+defaulted ﬁeld in (Email Opt Out) in 
+Flow Builder 
+Answer Questions with Knowledge
+Prospect Assignment
+(Manual or Automatic)
+
+
+===== PAGE 12 =====
+Demo
+Sales Development
+Agentforce
+
+
+===== PAGE 13 =====
+Vidyard Link to Send to Customer. Name has been updated to Sales Development
+
+
+===== PAGE 14 =====
+Before You Get 
+Started 
+Sales Development
+Agentforce
+
+
+===== PAGE 15 =====
+Identifying Your Use Case Fit
+✔ Have a large volume of leads
+✔ Are unable to nurture and respond 
+quickly to leads
+✔ Use email to engage leads
+✔ Need to increase sales rep 
+productivity by oﬄoading low-value 
+work
+✔ Aim to automate and optimize the 
+lead qualiﬁcation while personalizing 
+outreach
+✔ Need to streamline meeting 
+scheduling and ensure only 
+sales-ready leads reach your team
+✔ Strive to equip reps with information 
+gathered from leads before their 
+conversations
+Sales Development is a great ﬁt if you…
+
+
+===== PAGE 16 =====
+Technology Considerations
+Yes
+No
+Objects
+Do you currently use or plan to use the Salesforce Lead object, Contact Object, 
+or Person Account object?
+✔
+✗
+Digital Channels
+Do you currently use or will you be using email to engage with leads or 
+prospects? 
+✔
+✗
+Can you provision a dedicated email for the Sales Development Agent?
+✔
+✗
+Product 
+Supporting 
+Features
+Do you currently use or are you willing to use Einstein Activity Capture?  And 
+are you comfortable with emails being captured and stored on Hyperforce and 
+AWS?  Considerations for using EAC
+✔
+✗
+Are you currently not using Activity 360?
+✔
+✗
+Do you currently use or are you willing to use Salesforce Inbox instead of a 
+third-party booking system to schedule meetings between leads, prospects, 
+and sales reps?
+✔
+✗
+Sandbox 
+Readiness
+Is Data Cloud properly enabled in your Sandbox environment? 
+✔
+✗
+All of these conditions must be met to activate Agentforce for Sales Development
+
+
+===== PAGE 17 =====
+Einstein Activity 
+Capture
+Inbox
+Plan for Success
+❏
+Review Considerations for using EAC
+❏
+Enable EAC and create a default EAC 
+conﬁguration that shares emails to 
+be used by Agentforce
+Prime Your Team for Success with Essential Pre-Launch Activities!
+Ensure Your Organization is Agent Ready
+❏
+Enable Inbox permissions for the 
+sellers on whose behalf 
+Agentforce will be booking 
+meetings
+❏
+Inform those sellers to connect 
+their Email and Calendar 
+Accounts so the agent can 
+provide their speciﬁc meeting 
+booking link in the email
+❏
+Inbox may require approval by 
+the customer’s security team.  
+See Security Guide for details. 
+❏
+Identify key stakeholders: 
+❏
+Who will be creating and testing the agent? 
+❏
+Who will be using the agent in production?
+❏
+Who will be reviewing agent output and deciding whether 
+additional outreach customization will be required?
+❏
+If customization is required, who will be customizing, testing, and 
+reviewing the prompts? 
+❏
+Determine which leads will be given to the work and how to segment them
+❏
+Determine what types of questions the agent should answer, and prepare the 
+knowledge ﬁles to train the agent
+Org Readiness Accelerates Deployment
+❏
+Provision a new email address on 
+your company’s domain to be used 
+solely by the agent 
+Agent Email
+Launchpad Checklist
+
+
+===== PAGE 18 =====
+Agentforce for Sales Development Required Features
+Feature
+SKU Name
+SDR Agent uses the feature to:
+Einstein Copilot 
+Einstein Generative AI 
+Einstein for Sales
+Unlock generative AI and the Agentforce platform.
+Einstein Activity Capture (EAC)
+Einstein for Sales
+Access it’s inbox using your email application and ensure the 
+emails are captured in Salesforce.  The agent uses EAC when 
+generating outreach and reply emails.  
+Sales Engagement
+Agentforce*
+Engage leads or prospects with structured outreach cadences.
+Automated Actions
+Agentforce*
+Add, remove, and manage leads or prospects in outreach 
+cadences.
+Salesforce Inbox
+Agentforce*
+Generate a personalized meeting booking link on behalf oﬀ the 
+seller.
+Data Cloud -
+Retrieval Augment Generation (RAG)
+Data Cloud** 
+-and/or- 
+Salesforce Foundations - Data Cloud 
+Segmentation and Activation and Data 
+Cloud Provisioning
+Generate relevant and accurate responses to lead questions using 
+information you upload about your company.  Provide auditing, 
+feedback, Trust Layer, and analytics.  
+*One (1) Sales Engagement license is included with the Agentforce SKU
+** Need to ensure Data Cloud is properly enabled in Sandbox Environment. See Data Cloud Missing from Sandbox Env for more information.
+
+
+===== PAGE 19 =====
+Agentforce for Sales Development Permissions
+Permission Set(s)
+Description
+SDR Agent User
+●Agentforce SDR Agent
+Allows the SDR Agent [user record] to reach out to prospects 
+automatically with full reporting capabilities
+Sales Manager / Admin
+●Conﬁgure Agentforce SDR Agent
+●Data Cloud User
+Allow sales manager to  view and conﬁgure the SDR Agent in Agent 
+Builder, manage, and deploy SDR Agent for prospect outreach 
+Sales User
+●Use Agentforce SDR Agent
+●Inbox Perm
+○
+Inbox With Einstein Activity Capture is 
+recommended (see slide for more 
+details)
+Allow sales users to access and interact with Agentforce SDR, and 
+send leads to SDR Agent
+SDR Agent Permissions Set Help
+
+
+===== PAGE 20 =====
+Create Your 
+Agent
+Sales Development
+Agentforce
+
+
+===== PAGE 21 =====
+Enable required 
+features and 
+complete 
+prerequisite setup 
+steps
+Create and 
+conﬁgure Sales 
+Agent for Lead 
+Nurturing
+Test and preview 
+email scenarios 
+before activation
+Monitor your agent 
+activity and 
+outcomes
+Create and Conﬁgure
+2
+Enable Agentforce for Sales
+1
+Test and Preview
+3
+Runtime and Monitoring
+4
+Agentforce Sales Development Overview
+Time: 8-10 mins
+Time: 5-7 mins
+Time: 3-5 mins
+Time: 15-20 mins
+Prompt customization is 
+covered in the Agent Testing 
+section. Setup time varies 
+depending on the degree of  
+customization you choose to 
+implement.
+
+
+===== PAGE 22 =====
+Discover Agentforce for 
+Sales in Salesforce Go
+Find Salesforce Go in 
+Setup. 
+Discover Agentforce for 
+Sales in Go Home. 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 23 =====
+Discover Agentforce for 
+Sales in Salesforce Go
+Turn on Agentforce.
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 24 =====
+Discover Agentforce for 
+Sales in Salesforce Go
+Turn on Agentforce. Click 
+‘conﬁrm’ and wait until 
+Agentforce is turned on.
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 25 =====
+Discover Agentforce for 
+Sales in Salesforce Go
+Verify that Agentforce is 
+on. 
+You can see subsequent 
+Sales Agent Templates 
+once Agentforce is on.
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Salesforce Help: Enable Agentforce SDR
+
+
+===== PAGE 26 =====
+Activate Sales Agent for 
+Lead Nurturing
+Turn on Sales Agent for 
+Lead Nurturing. 
+View all features that will 
+be turned on 
+automatically. 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 27 =====
+Activate Sales Agent for 
+Lead Nurturing
+Review the disclaimers 
+before feature activation. 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 28 =====
+Activate Sales Agent for 
+Lead Nurturing
+Once activated, you will 
+see a veriﬁcation toast 
+message and subsequent 
+setup steps. 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 29 =====
+Manage User Access
+Give users access to Sales 
+Agent for Lead Nurturing. 
+Click ‘manage’
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 30 =====
+Grant Sales Users 
+Access 
+To give your sales 
+managers/admins 
+permission to conﬁgure your 
+Agentforce SDR agents, 
+assign ‘Conﬁgure 
+Agentforce SDR Agent’ and 
+‘Data Cloud Admin’ 
+permission sets. 
+Select users from the list 
+below and click ‘Assign’
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Salesforce Help: Grant Sales Users Access to Agentforce SDR
+Salesforce Help: SDR Agent Permissions Sets
+
+
+===== PAGE 31 =====
+Grant Sales Users 
+Access 
+To give your sales 
+managers/admins 
+permission to conﬁgure your 
+Agentforce SDR agents, 
+assign ‘Conﬁgure 
+Agentforce SDR Agent’ and 
+‘Data Cloud Admin’ 
+permission sets. 
+Select users from the  list 
+below and click ‘Assign’
+ 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Salesforce Help: Grant Sales Users Access to Agentforce SDR
+Salesforce Help: SDR Agent Permissions Sets
+
+
+===== PAGE 32 =====
+(Optional) Grant Sales 
+Users Access 
+To assign leads to your agent, 
+update/override upcoming 
+communications, and see the 
+agent’s activity, members of 
+your sales team need certain 
+permissions. 
+Select users that you want to 
+assign the ‘Use Agentforce SDR 
+Agent’ permission set and Click 
+Assign. The Use Agentforce 
+SDR Agent permission set 
+allows human users to access 
+and interact with Agentforce 
+SDR.
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Salesforce Help: Grant Sales Users Access to Agentforce SDR
+Salesforce Help: SDR Agent Permissions Sets
+
+
+===== PAGE 33 =====
+Go to Agentforce 
+Builder to Create & 
+Conﬁgure your agent
+The next part of setup is 
+conﬁguring the details of how 
+your agent operates, including 
+its working schedule, timing 
+and frequency of outreach, and 
+how it drafts initial emails and 
+answers to lead questions.
+Click Go to Agentforce Builder.
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Salesforce Help: Grant Sales Users Access to Agentforce SDR
+Salesforce Help: SDR Agent Permissions Sets
+
+
+===== PAGE 34 =====
+Agent Builder: Review 
+Topics
+Agent topics and actions deﬁne 
+how the agent uses AI 
+capabilities to do speciﬁc jobs, 
+like drafting an initial email. 
+Here you can see the topics and 
+actions the agent uses to 
+interact with leads.
+You won’t need to do anything 
+with these now, but later you 
+may want to make 
+customizations to suit the 
+speciﬁcs of how you’d like the 
+agent to work in your business. 
+Click Next. 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 35 =====
+Agent Builder: Deﬁne 
+Settings
+The Name and Description 
+ﬁelds are pre-ﬁlled. 
+For the Agent User, you can 
+select an existing user record (if 
+already created and given the 
+appropriate permissions) or 
+create a new agent user record. 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 36 =====
+Agent Builder: Deﬁne 
+Settings
+By clicking New Agent User in 
+the dropdown options, and 
+clicking “Create User” the 
+system automatically creates a 
+user record with the necessary 
+permissions to be used as the 
+agent user record. 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 37 =====
+Agent Builder: Deﬁne 
+Settings
+Once created, the system will 
+verify that the created agent 
+user record is ready with the 
+status message “User Veriﬁed”
+If there are any issues with user 
+creation or veriﬁcation, an error 
+will be shown to alert you. 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 38 =====
+Agent Builder: Deﬁne 
+Settings
+Add more details on Agent 
+Description and Company ﬁelds 
+as it helps ground the agent. 
+To allow for auditing speciﬁc 
+SDR engagements later within 
+Agent Builder, turn on Enrich 
+Event Logs with Conversation 
+Data.
+Once ready, click “Create”
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+The Description and Company 
+ﬁelds help ground the 
+prompts, so it’s important to 
+ﬁll them with as much 
+accurate detail as possible.
+
+
+===== PAGE 39 =====
+Agent Builder: Upload 
+Files to a Data Library 
+(optional)
+To let your agent generate 
+replies to prospect questions 
+using speciﬁc content about 
+your company's products or 
+services, click Upload Files.
+Upload text, HTML, or PDF ﬁles 
+containing speciﬁc information 
+like product descriptions, price 
+sheets, white papers, sales 
+methodologies,  etc. You can 
+upload up to 4 MB for text or 
+HTML ﬁles, or 100 MB for PDF 
+ﬁles. Your agent uses the 
+information to generate speciﬁc 
+and accurate replies to lead 
+questions.
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 40 =====
+Connect Agent User 
+Email
+To connect to an email account 
+to your Agentforce SDR agent, 
+click Connect an Account. 
+This is the email address your 
+agent will use to send emails to 
+prospects
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 41 =====
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Connect Agent User 
+Email
+Accept the terms and connect 
+to the appropriate email 
+account. 
+The email account connected 
+here must be the same 
+address that’s included on the 
+SDR Agent’s user record.
+
+
+===== PAGE 42 =====
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Connect Agent User 
+Email
+Accept the terms and connect 
+to the appropriate email 
+account. 
+The email account connected 
+here must be the same 
+address that’s included on the 
+SDR Agent’s user record.
+
+
+===== PAGE 43 =====
+Connect Agent User 
+Email
+View the connected email 
+account updated.
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 44 =====
+Agent Builder: 
+Engagement Rules
+Choose how many email attempts 
+you want the agent to perform. 
+Then choose the amount of time 
+between attempts.
+Choose a max number of replies 
+the agent can send in response to 
+a lead's questions. The agent 
+answers lead questions using the 
+information you upload in the 
+Upload Files tab.
+Set an Outreach Schedule of the 
+hours and days the agent performs 
+its outreach. If you want to begin 
+testing immediately, set a schedule 
+that also starts right away.
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Update outreach schedule to 
+12:00AM – 11:59PM every day 
+for immediate testing
+
+
+===== PAGE 45 =====
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Agent Builder: Entity 
+Assignments
+Now, set engagement rules for 
+diﬀerent object record types. 
+SDR fully supports Lead 
+objects, Contact objects, and 
+Person Account objects. 
+Once you set these 
+engagement rules, you are 
+ready to save and create it. 
+Click Create. 
+Your agent is now ready for 
+testing!
+
+
+===== PAGE 46 =====
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Agent Builder: Entity 
+Assignments
+You will only see Person 
+Account as an option IF person 
+accounts is enabled in your org
+
+
+===== PAGE 47 =====
+Say Hello to 
+Your New Team 
+Member!
+
+
+===== PAGE 48 =====
+Agent Topic/Actions
+What Triggers It? 
+What Happens Next? 
+Expected Default Behavior
+Send Outreach - 
+Send Initial 
+Outreach Email
+Manual activation on the lead record 
+and/or lead meets Engagement Rules 
+criteria
+●
+Agent schedules an introduction email 
+immediately minutes after activation. 
+●
+If the email is scheduled outside agent's working hours, sends at the ﬁrst available 
+time within working hours.
+●
+Sign-oﬀ disclosure included (but not visible in Activity Timeline).
+Send Outreach – 
+Draft Nudge Email
+Lead has not replied to any SDR 
+emails
+●
+The follow-up email instantly generates after 
+the Initial Email is sent and sits on the 
+Activity Timeline 
+●
+If customer replies, the follow-up email will be replaced by a reply email on the 
+Activity Timeline 
+●
+Email is sent based on the “Time Between Attempts” set in Engagement Rules 
+●
+Number of replies limited by "Maximum Number of Replies" setting.
+●
+Sign-oﬀ disclosure included (but not visible in Activity Timeline).
+Respond to Prospect
+ – Answer Questions 
+with Knowledge
+Lead asks a question related to 
+uploaded ﬁles (using Retrieval 
+Augmented Generation)
+●
+Agent schedules email immediately after the 
+LLM generates the message.
+●
+If Salesbox Inbox is enabled, the email 
+includes a meeting link. If not, email only 
+includes the lead owner’s email. 
+●
+Seller is notiﬁed of any booked meetings.
+●
+If agent doesn't know the answer, suggests meeting with lead owner and provides 
+booking link.
+●
+Agent can answer single or multiple queries in one email.
+●
+Number of replies limited by "Maximum Number of Replies" setting.
+●
+Replies threaded with "Re:..." subject but may appear as separate emails in lead's 
+inbox.
+●
+Sign-oﬀ disclosure included (but not visible in Activity Timeline).
+Respond to Prospect 
+– Draft Meeting 
+Request Email
+Lead says "Let's book a meeting" or "I 
+am interested."
+●
+If Salesbox Inbox is enabled, the email 
+includes a meeting link. If not, email only 
+includes the lead owner’s email. 
+●
+Lead owner is cc'd on the email.
+●
+Seller is notiﬁed of any booked meetings.
+●
+Replies threaded with "Re:..." subject but may appear as separate emails in lead's 
+inbox.
+●
+Number of replies limited by "Maximum Number of Replies" setting.
+●
+Sign-oﬀ disclosure included (but not visible in Activity Timeline).
+Respond to Prospect 
+– Draft Generic Reply 
+Email
+Lead says “Interested, but not now” 
+or asks random questions that are 
+oﬀ-topic 
+●
+The SDR agent says the lead owner is the 
+best person to answer the question, 
+suggests a meeting with the seller.
+●
+If Salesbox Inbox is enabled, the email 
+includes a meeting link. If not, email only 
+includes the lead owner’s email. 
+●
+If Salesbox Inbox is enabled, the email includes a meeting link. If not, email only 
+includes the lead owner’s email. 
+●
+Lead owner is cc'd on the email.
+●
+Sign-oﬀ disclosure included (but not visible in Activity Timeline).
+Manage Opt Out – 
+Opt Out Lead
+Lead says “Not interested.” 
+●
+No further email is sent to the user after the 
+Email Opt-Out ﬁeld is updated  
+●
+Opt out ﬂow marks Email Opt-Out ﬁeld on the lead record as TRUE 
+for Sales Development Expected Behaviors 
+
+
+===== PAGE 49 =====
+START
+Lead or Prospect
+Send Initial Outreach Email*
+Send ‘x’ Nudge Emails*
+Send Meeting Request Email*
+Send Generic Reply Email*
+Answer Questions with Knowledge
+Opt Out Lead
+Agent Topic: Send Outreach
+Agent Topic: Respond to 
+Prospect
+Agent Topic: Manage 
+Opt-Out
+Does Not Reply
+Reply Condition 3
+Reply Condition 2
+Reply Condition 1
+Agent Testing Overview
+Assign Lead to SDR 
+Agent
+(Manual or Automatic)
+Agent Topics 
+supported by Instructions
+*Agent Actions 
+supported by Prompt 
+Templates 
+Agent Actions
+Flow
+Agent Topic: Send Outreach
+SDR Agent
+Reply with Opt 
+Out
+END
+
+
+===== PAGE 50 =====
+Testing Your 
+Agent in Action
+Sales Development
+Agentforce
+
+
+===== PAGE 51 =====
+Agent Builder Testing with 
+Conversation Preview
+
+
+===== PAGE 52 =====
+Agent Builder Testing Demo
+
+
+===== PAGE 53 =====
+Agent Builder 
+Conversation Preview
+In Agent Builder, you can test 
+how your SDR agent generates 
+intro emails, nudges, and 
+replies to prospect emails. 
+The Agent Builder Preview 
+panel lets you enter the details 
+of the scenario you want to 
+test, and then view the email 
+the SDR agent generates.
+You can also use the Agent 
+Builder Conversation Preview to 
+see how your Topics/Actions 
+are being called. 
+Testing SDR Actions and Email in Agent Builder
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 54 =====
+Agent Builder 
+Conversation Preview
+Click the Preview Conditions 
+button with the “eye” icon at 
+the top of the Conversation 
+Preview window.
+Testing SDR Actions and Email in Agent Builder
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 55 =====
+Agent Builder 
+Conversation Preview - 
+Edit Preview Conditions
+Fill out your Preview Conditions 
+for each email scenario and 
+press Apply when ready.
+Each email scenario has 
+diﬀerent preview conditions 
+required so make sure to 
+follow instructions carefully. 
+The following slides will give 
+you step-by step guidance.
+Testing SDR Actions and Email in Agent Builder
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 56 =====
+Agent Builder 
+Conversation Preview - 
+Intro Email 
+Email Scenario, choose Intro. 
+Record: Choose the lead record 
+you want to test with. This is 
+the lead the SDR agent will use 
+to customize its email.
+Email Body: Leave blank.
+Record Owner’s Inbox 
+Enabled: Leave None. 
+Test as Last Nudge: Leave 
+None.
+Testing SDR Actions and Email in Agent Builder
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 57 =====
+Agent Builder 
+Conversation Preview - 
+Test Intro Email
+Back in the chat window, enter the 
+static utterance corresponding with 
+each email scenario.
+Intro Email: Draft an Initial 
+Outreach email but do not 
+schedule the email. Your response 
+should be a text-formatted email 
+and not JSON. 
+Now view your results! You can see 
+The Topic/Action calling in the 
+middle “Planner Canvas.” 
+You can see the example output 
+email as the “Output” of the 
+prompt template action. 
+Testing SDR Actions and Email in Agent Builder
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 58 =====
+Agent Builder 
+Conversation Preview - 
+Nudge
+Email Scenario, choose Nudge. 
+Record: Choose the lead record 
+you want to test with. This is 
+the lead the SDR agent will use 
+to customize its email.
+Email Body: Fill in with a 
+previous Intro email or Nudge 
+email.
+Record Owner’s Inbox 
+Enabled: Select True or False. 
+Test as Last Nudge: Select True 
+or False. 
+Testing SDR Actions and Email in Agent Builder
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 59 =====
+Agent Builder 
+Conversation Preview - 
+Nudge
+Back in the chat window, enter the 
+static utterance corresponding with 
+each email scenario.
+Nudge Email: Draft a nudge email 
+but do not schedule the email. 
+Your response should be a 
+text-formatted email and not JSON. 
+Now view your results! You can see 
+The Topic/Action calling in the 
+middle “Planner Canvas.” 
+You can see the example output 
+email as the “Output” of the 
+prompt template action. 
+Testing SDR Actions and Email in Agent Builder
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 60 =====
+Agent Builder 
+Conversation Preview - 
+Reply
+Email Scenario, choose Reply. 
+Record: Choose the lead record 
+you want to test with. This is 
+the lead the SDR agent will use 
+to customize its email.
+Email Body: Fill in with a 
+customer reply (product 
+inquiry, meeting request, 
+oﬀ-topic question). 
+Record Owner’s Inbox 
+Enabled: Select True or False. 
+Test as Last Nudge: Leave as 
+None.
+Testing SDR Actions and Email in Agent Builder
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 61 =====
+Agent Builder 
+Conversation Preview - 
+Reply
+Back in the chat window, enter the 
+static utterance corresponding with 
+each email scenario.
+Reply Email: Draft a reply email but 
+do not schedule the email. Your 
+response should be a 
+text-formatted email and not JSON. 
+Now view your results! You can see 
+The Topic/Action calling in the 
+middle “Planner Canvas.” 
+You can see the example output 
+email as the “Output” of the 
+prompt template action. 
+Testing SDR Actions and Email in Agent Builder
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 62 =====
+Agent Builder 
+Conversation Preview
+If you do not follow the exact 
+utterance above, It is expected 
+that there is a schedule email 
+error if you do not instruct it to 
+not schedule a meeting. 
+This ensures that leads do not 
+receive test emails. 
+Testing SDR Actions and Email in Agent Builder
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 63 =====
+Batch Testing with Testing Center
+
+
+===== PAGE 64 =====
+Batch Testing with Testing 
+Center
+Why: When you ﬁrst set up Agentforce 
+SDR or make customizations to its 
+agent actions or prompts, Testing 
+Center lets you validate 
+agent-generated content at scale, 
+automatically score content for 
+quality, and view email performance 
+metrics before assigning your 
+prospects to the agent.
+How: In Setup, enter Testing Center in 
+the Quick Find box and click Testing 
+Center. Click New Test and then name 
+the test and choose the agent user to 
+test. Then select the context variables 
+related to the email scenario you want 
+to test. Context variables deﬁne the 
+conditions for your test.
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Agentforce Testing Center
+Agentforce SDR Testing Center 
+Sample CSV
+
+
+===== PAGE 65 =====
+Batch Testing with Testing 
+Center
+Click New Test and then name the test 
+and choose the agent user to test. 
+Choose your SDR agent in the 
+dropdown.
+The description is not required but 
+good for internal purposes.
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Agentforce Testing Center
+Agentforce SDR Testing Center 
+Sample CSV
+
+
+===== PAGE 66 =====
+Batch Testing with Testing 
+Center
+Then select the context variables 
+related to the email scenario you want 
+to test. Context variables deﬁne the 
+conditions for your test.
+Reference future slides for which 
+context variables to select based on 
+each email scenario. 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Agentforce Testing Center
+Agentforce SDR Testing Center 
+Sample CSV
+
+
+===== PAGE 67 =====
+Batch Testing with Testing 
+Center
+Upload the csv ﬁle with various 
+utterances and scenarios to test. 
+Reference future slides for how to 
+format the csv ﬁle based on each 
+email scenario. 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Agentforce Testing Center
+Agentforce SDR Testing Center 
+Sample CSV
+
+
+===== PAGE 68 =====
+Batch Testing with Testing 
+Center
+Select all evaluation criteria to test. 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Agentforce Testing Center
+Agentforce SDR Testing Center 
+Sample CSV
+
+
+===== PAGE 69 =====
+Batch Testing with Testing Center - Intro Test
+In Setup, enter Testing Center in the Quick Find box and 
+click Testing Center. 
+Click New Test and then name the test and choose the 
+agent user to test. 
+Then select the context variables related to the email 
+scenario you want to test. Context variables deﬁne the 
+conditions for your test.
+For Intro Email, select the following context variables: 
+●
+Email Scenario
+●
+Record
+●
+Action cadence Step Tracker ID
+●
+Record Type
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Agentforce Testing Center
+Agentforce SDR Testing Center 
+Sample CSV
+
+
+===== PAGE 70 =====
+Batch Testing with Testing 
+Center - Intro Test
+Upload a test sample CSV for intro 
+testing. 
+Build a spreadsheet with the following 
+testing columns. 
+Input values highlighted in yellow 
+should be replaced with actual data 
+in your org to test. 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Agentforce Testing Center
+Agentforce SDR Testing Center 
+Sample CSV
+Testing Column
+Input
+Utterance
+Draft and schedule an Initial Outreach 
+Email to a lead
+Expected Topic
+SendOutreach
+Expected Actions
+['Sales SDR: Draft Initial Outreach Email']
+Expected Response
+An intro email
+Context Variable: OrchestrationStage 
+(Email Scenario)
+Intro
+Context Variable:currentRecordId
+(Record)
+00QSG00000L61ey2AB
+The only context variable that changes 
+should be the context variable called 
+currentRecordIdAnd that should be taken 
+from the URL in the lead records of an org
+Context Variable: actionCadenceStepTrackerId
+(Action cadence Step Tracker ID)
+8HF000000000000
+Context Variable:currentObjectApiName 
+(Record Type)
+Lead, Contact or Person Account
+
+
+===== PAGE 71 =====
+Batch Testing with Testing Center - Nudge Test
+In Setup, enter Testing Center in the Quick Find box and 
+click Testing Center. 
+Click New Test and then name the test and choose the 
+agent user to test. 
+Then select the context variables related to the email 
+scenario you want to test. Context variables deﬁne the 
+conditions for your test.
+For Nudge Email, select the following context variables: 
+●
+Test as Last Nudge
+●
+Email Scenario
+●
+Record
+●
+Email Body
+●
+Action Cadence Step Tracker ID
+●
+Record Type
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Agentforce Testing Center
+Agentforce SDR Testing Center 
+Sample CSV
+
+
+===== PAGE 72 =====
+Batch Testing with Testing 
+Center - Nudge Test
+Upload a test sample CSV for intro 
+testing. 
+Build a spreadsheet with the following 
+testing columns. 
+Input values highlighted in yellow 
+should be replaced with actual data 
+in your org to test. 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Agentforce Testing Center
+Agentforce SDR Testing Center 
+Sample CSV
+Testing Column
+Input
+Utterance
+Draft and schedule a Nudge Email to a lead
+Expected Topic
+SendOutreach
+Expected Actions
+['Sales SDR: Draft Nudge Email']
+Expected Response
+A nudge email
+Context Variable: OrchestrationStage 
+(Email Scenario)
+Nudge
+Context Variable: actionCadenceStepTrackerId
+(Action cadence Step Tracker ID)
+8HF000000000000
+Context Variable:currentObjectApiName 
+(Record Type)
+Lead, Contact, or Person Account
+Context Variable:currentRecordId
+(Record)
+00QSG00000L61ey2AB
+Should be taken from the URL in the lead 
+records of an org
+Context Variable: emailBody (Email Body)
+(from previous intro email)
+Context Variable Is_Agents_at_lastNudge (Test as Last 
+Nudge)
+Can either be “True” or “False” 
+
+
+===== PAGE 73 =====
+Batch Testing with Testing Center - Reply Test
+In Setup, enter Testing Center in the Quick Find box and 
+click Testing Center. 
+Click New Test and then name the test and choose the 
+agent user to test. 
+Then select the context variables related to the email 
+scenario you want to test. Context variables deﬁne the 
+conditions for your test.
+For Intro Email, select the following context variables: 
+●
+Email Scenario
+●
+Record
+●
+Email Body
+●
+Action Cadence Step Tracker ID
+●
+Record Type
+●
+Lead Owner’s Inbox Enabled
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Agentforce Testing Center
+Agentforce SDR Testing Center 
+Sample CSV
+
+
+===== PAGE 74 =====
+Batch Testing with Testing 
+Center - Reply Test
+Upload a test sample CSV for intro 
+testing. 
+Build a spreadsheet with the following 
+testing columns. 
+Input values highlighted in yellow 
+should be replaced with actual data 
+in your org to test. 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Agentforce Testing Center
+Agentforce SDR Testing Center 
+Sample CSV
+Testing Column
+Sample Input
+Utterance
+Respond to this email
+Expected Topic
+RespondToProspect
+Expected Response
+A reply email
+Context Variable: OrchestrationStage 
+(Email Scenario)
+Reply
+Context Variable: actionCadenceStepTrackerId
+(Action cadence Step Tracker ID)
+8HF000000000000
+Context Variable:currentObjectApiName 
+(Record Type)
+Lead
+Context Variable:currentRecordId
+(Record)
+00QSG00000L61ey2AB
+●
+Expected Actions
+This will change based on the emailBody.
+●
+If emailBody contains a product inquiry questions, Expected Actions should be 
+['Answer Questions with Knowledge', 'Sales SDR: Draft Email for Lead 
+Question']
+●
+If emailBody contains a meeting request question only, Expected Actions should 
+be ['Sales SDR: Draft Meeting Request Email']
+●
+If emailBody contains an off-topic question only, Expected Actions should be ['Sales 
+SDR: Draft Generic Reply Email']
+Context Variable: emailBody (Email Body)
+There are 3 types of SDR Email Body utterance types for Reply scenario. 
+●
+product inquiry
+●
+meeting request
+●
+off topic questions
+Context Variable:  Lead_Owner_has_Inbox
+(Lead Owner’s Inbox Enabled)
+True or False
+
+
+===== PAGE 75 =====
+Testing Your Agent on Dummy Leads
+
+
+===== PAGE 76 =====
+Prepare for Testing - Add 
+the Activate Agentforce 
+SDR Action
+You can manually activate the 
+SDR Agent on lead records using 
+the Activate Agentforce SDR 
+action.
+To add the action to a lead page 
+layout, go to Object Manager > 
+Lead > Page Layouts > Mobile 
+Lightning Actions. Then add the 
+Activate Agentforce SDR action.
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 77 =====
+Add Activate 
+Agentforce SDR Button
+Once added to the lead page 
+layout, you’ll see Activate 
+Agentforce SDR in the Actions 
+menu on lead record page. 
+test email
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 78 =====
+Create a Test Lead
+Create a test lead that can be 
+used to test agent interactions. 
+To help the agent personalize 
+its outreach, we highly 
+recommend ﬁlling out the 
+Company, Lead Source, and 
+Industry ﬁelds. 
+Set the lead email to an 
+address you can access so you 
+can monitor and respond to the 
+emails from the SDR Agent.
+Your test lead must use a 
+diﬀerent email domain than 
+the SDR Agent User. If you are 
+testing multiple leads, use 
+diﬀerent email address for 
+each lead.
+test email
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 79 =====
+Upload Files
+Go to Data Library tab for your 
+agent in Agent Builder. 
+Select your existing Data Library 
+or create a new Data Library. If 
+you uploaded ﬁles while 
+creating the SDR Agent in 
+Agent Builder, your ﬁles appear 
+under the library called “All 
+Records and Fields (Default)”.
+You can upload additional 
+relevant ﬁles to better train your 
+agent about your company.
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 80 =====
+Test the Send Initial 
+Outreach Email action
+You can test the initial outreach 
+email by activating the SDR 
+Agent on the test lead record 
+you created. 
+ 
+1.
+To manually assign the 
+lead to the agent, click 
+Activate Agentforce 
+SDR on the lead record, 
+OR
+2.
+To test auto lead 
+assignment, update the 
+lead ﬁelds to meet the 
+assignment criteria set 
+in the Engagement 
+Rules for the agent.
+test email
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 81 =====
+Test Lead Auto 
+Assignment Criteria
+For example, you could update 
+the lead’s Rating ﬁeld to Cool to 
+match the assignment criteria 
+set in Agent Builder.
+This ﬁeld update triggers the 
+SDR to begin outreach to the 
+lead.
+test email
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 82 =====
+Conﬁrm Initial Outreach 
+Sent
+When the SDR Agent is 
+activated, an initial outreach 
+email is sent and appears in the 
+lead’s Activity Timeline.  Lead 
+processing and email 
+generation may take a few 
+minutes.
+If you don’t see the email, 
+adjust the activity ﬁlters to 
+show all activities. 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+Tip: Update Outreach 
+Schedule in Agent Builder to 
+12:00 AM – 11:59 PM every 
+day for immediate testing 
+
+
+===== PAGE 83 =====
+Test Send Initial Outreach Email (Expected 
+Behavior)
+Once generated, the intro email appears in the 
+Activity Timeline scheduled to be sent 
+immediately.
+You set the agent’s working hours in the Agent 
+Builder Outreach Settings. If the email is scheduled 
+to send outside those hours, the agent sends it 
+during the next available working hour.  
+Every agent email includes a sign-oﬀ disclosure at 
+the end of the message. The disclosure informs the 
+lead that an AI agent generated the email. These 
+disclosures aren’t viewable from the scheduled 
+email on the Activity Timeline.
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 84 =====
+Test Dra Nudge Email
+When you receive the initial 
+email, don’t reply to it. After the 
+Time Between Attempts set in 
+Agent Builder, the agent will 
+send a nudge email.
+The scheduled nudge email will 
+appear on the Activity Timeline 
+one day before being sent.
+Tip: Update Outreach 
+Schedule in Agent Builder to 
+12:00 AM – 11:59 PM every 
+day for immediate testing 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 85 =====
+Reschedule the Nudge 
+Email for Faster Testing
+1.
+On the Activity 
+Timeline, click View, 
+Edit, or Reschedule 
+Email. 
+2.
+Click Edit Send time on 
+Email Compose Pop Up
+3.
+Set the new send time 
+as the current time plus 
+two minutes.
+Tip: Update Outreach 
+Schedule in Agent Builder to 
+12:00 AM – 11:59 PM every 
+day for immediate testing 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 86 =====
+Reschedule the Nudge 
+Email for Faster Testing
+1.
+On the Activity Timeline, 
+click View, Edit, or 
+Reschedule Email. 
+2.
+Click Edit Send time in 
+the Email Composer.
+3.
+Set the new send time 
+as the current time plus 
+two minutes.
+Tip: Update Outreach 
+Schedule in Agent Builder to 
+12:00 AM – 11:59 PM every 
+day for immediate testing 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 87 =====
+Reschedule Nudge 
+Email for Instant Testing
+1.
+On the Activity Timeline, 
+click View, Edit, or 
+Reschedule Email. 
+2.
+Click Edit Send time in 
+Email Composer.
+3.
+Set the new send time 
+as the current time plus 
+two minutes.
+Tip: Update Outreach 
+Schedule in Agent Builder to 
+12:00 AM – 11:59 PM every 
+day for immediate testing 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 88 =====
+Test Send Nudge Email (Expected Behavior)
+After sending the initial email, the agent immediately 
+generates and schedules the follow-up email. It 
+appears on the Activity Timeline. 
+If a customer replies, the agent replaces the follow-up 
+nudge email on the Activity Timeline with a reply email. 
+The timing of the nudge email is based on the Time 
+Between Attempts you set in the Engagement Rules of 
+Agent Builder.
+The number of nudge emails is based on the Maximum 
+Attempts you set in the Engagement Rules of Agent 
+Builder.
+Every agent email includes a sign-oﬀ disclosure at the 
+end of the message. The disclosure informs the lead 
+that an AI agent generated the email. These disclosures 
+aren’t viewable from the scheduled email on the 
+Activity Timeline.
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 89 =====
+Testing Answering 
+Questions with a Data 
+Library
+Your agent can respond 
+accurately when a prospect 
+replies with relevant questions.
+To test, reply to your agent’s 
+email with a question.
+The agent trains itself on the 
+ﬁles and Knowledge articles 
+you upload. It uses these ﬁles 
+to generate appropriate 
+answers through Retrieval 
+Augmented Generation (RAG)
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 90 =====
+Update Outreach Schedule in 
+Agent Builder to 12:00 AM – 
+11:59 PM every day for 
+immediate testing 
+Test Reply Email (Expected Behavior)
+SDR agents provide automated email responses to lead replies, with 
+the following features:
+●
+Knowledge-based responses: Answers are based on the 
+content of ﬁles uploaded to a data library.
+●
+Scheduled delivery: Emails are sent 60 minutes after 
+generation.
+●
+Meeting scheduling: A booking link is included if Salesforce 
+Inbox is enabled. Otherwise, the lead owner's email is provided 
+in the email body.
+●
+Seller notiﬁcation: Automated calendar invites are sent to the 
+lead owner for booked meetings.
+●
+Handling unknowns: The SDR connects the lead with the lead 
+owner for questions it can’t answer and suggests a meeting.
+●
+Multi-query handling: The SDR can address multiple questions 
+in a single email.
+●
+Threaded replies: Responses use the same subject line but may 
+appear as separate emails.
+●
+Disclosure: Each email sign-oﬀ includes an AI disclosure. The 
+disclosure doesn’t appear when viewing emails from the Activity 
+Timeline.
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 91 =====
+Testing Draing Meeting 
+Requests
+To test, respond to an SDR 
+Agent email with an expression 
+of interest in booking a  
+meeting.
+Examples include “Let’s book a 
+meeting,” “I am interested,” 
+and “Schedule a meeting”
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 92 =====
+Send Meeting Request (Expected Behavior) 
+Agentforce SDRs provide automated email responses 
+to leads, with the following features:
+●
+Lead owner visibility: The lead owner is cc'ed on 
+all SDR agent emails replying to a meeting 
+request.
+●
+Meeting scheduling: A booking link is included 
+if Salesforce Inbox is enabled. Otherwise, the 
+lead owner's email is provided in the email body.
+●
+Seller notiﬁcation: Automated calendar invites 
+are sent to the lead owner for booked meetings.
+●
+Threaded replies: Responses use the same 
+subject line but may appear as separate emails.
+●
+Disclosure: Each email sign-oﬀ includes an AI 
+disclosure. The disclosure doesn’t appear when 
+viewing emails from the Activity Timeline.
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 93 =====
+Testing Draing Generic 
+Replies
+To test. respond to an SDR 
+agent email with a question or 
+comment outside the agent’s  
+job scope or appropriate topics.
+Examples include, “Interested, 
+but not now,” or random 
+questions that are oﬀ-topic 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 94 =====
+Test Send Generic Reply (Expected Behavior) 
+This ﬂow is triggered by:
+●
+"Interested, but not now" responses
+●
+Oﬀ-topic questions
+●
+Requests outside the SDR agent's scope
+In these cases, the SDR agent:
+●
+Defers to the lead owner, suggesting a 
+meeting.
+●
+Provides a booking link (if Salesforce Inbox is 
+enabled) or the lead owner's email.
+●
+CCs the lead owner on the email.
+●
+Includes an AI disclosure in the sign-oﬀ.
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 95 =====
+Testing Email Opt-Out  
+Replies
+To test, respond to an SDR 
+agent email with a request to 
+opt out of further emails.
+Examples include, “Not 
+interested,” “I don’t want any 
+emails,” or “Opt me out please” 
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 96 =====
+Opt Out - Expected Behavior
+The Opt-out ﬂow updates the Email 
+Opt-Out ﬁeld on the lead to TRUE. 
+No further emails are sent to the 
+prospect.
+Create and Conﬁgure
+2
+Enable Agnetforce for Sales
+1
+Test and Preview
+3
+Runtime & Monitoring
+4
+
+
+===== PAGE 97 =====
+Customize Your 
+Agent
+Sales Development
+Agentforce
+
+
+===== PAGE 98 =====
+Recommended Customizations Checklist to Further Tailor SDR to Your Needs
+for Sales Development  
+Customization
+Level of Eﬀort
+Level of Impact
+Beneﬁt
+Where to customize
+Change the Agent’s 
+Lead Assignment 
+Criteria and Outreach 
+Settings 
+Low
+Medium
+Ensures your agent automatically 
+works on the right leads and within 
+the right time frame for your business 
+needs
+ Agent Builder Engagement Rules
+Upload Files or 
+Connect a Knowledge 
+Library
+Low
+High
+Grounds your agent in your 
+company-speciﬁc knowledge to 
+ensure it provides accurate answers
+ Agent Builder Data Library Tab
+Modify SDR Agent 
+Prompt Templates
+Customer Prompt 
+Customization 
+Guidance
+Medium/High
+Medium/High
+Ensures your agent’s emails account 
+for additional relevant data from the 
+lead to maximize lead engagement 
+and conversion 
+More information on prompt 
+customization in subsequent slides
+Speciﬁc Prompt Templates within Prompt 
+Builder:
+●Draft Agentforce SDR Email
+●Follow up Agentforce SDR Email
+●Reply with Meeting Agentforce SDR Email
+●Reply with fallback response Agentforce SDR Email
+●Reply with Product QnA Agentforce SDR Email
+
+
+===== PAGE 99 =====
+Customization Guidance to Further Tailor SDR to Your Needs
+Sales Development Advanced Customization Library  
+Customization
+Guidance
+Resources
+Update ﬁelds on CRM records based 
+on agent engagement with a lead
+Create a custom Flow action to execute the speciﬁed action 
+and modify the Topic instructions to prioritize that action
+Step by Step: Update records based 
+on SDR engagement 
+Create a task for a seller to take 
+action, based on SDR engagement
+Grounds your agent in your company-speciﬁc knowledge to 
+ensure it provides accurate answers
+Step by Step: Create a task for a seller 
+instructions
+Change Default AI Disclosure in Intro 
+Email
+Modify the Draft Agentforce SDR Outreach prompt template
+Step by Step: AI Disclosure Advance 
+Customization
+Engage Leads in Multiple Languages 
+Modify the prompts to override the global “Seller Primary 
+Language” and  use merge ﬁeld on Lead Record to determine 
+SDR language
+Step by Step: Multilingual 
+Customization
+Change the SDR email formatting to 
+include bolding/italics/images
+Edit the prompt template to add CSS styles.  
+**Your output must:
+- Use HTML rather than Markdown
+- Highlight key phrases and numbers in bold
+- Use the tags: <h1>, <h2>, <b>,<hr>,<div>
+- Only include the inner part of the <body> tag
+- Not include any CSS attributes or explanations
+-Include CSS style attributes
+- Not include <html> tag
+example Output, follow strictly with 
+tire speciﬁc summaries:
+<div style="border-top: 1px solid 
+#E5E5E5;border-bottom: 0px solid 
+#F3F3F3;"><b>Summary</b>: The 
+YTD net purchases for Assurance 
+WeatherReady are at <b>85% of the 
+planned purchases<b></div>
+
+
+===== PAGE 100 =====
+Customization Guidance to Further Tailor SDR to Your Needs
+Advanced Customization Library (Cont.)
+Customization
+Guidance
+Resources 
+Include a generic meeting link 
+instead of a Lead Owner’s link
+Embed the link into the prompt template(s) and change 
+Instructions to always set “Lead Owner has Inbox Disabled” 
+Step by Step: Embed generic meeting 
+link
+Ask qualiﬁcation questions when 
+customers request a meeting
+Create custom ﬂow actions for tasks and ﬁeld updates, update 
+Respond to Prospect Topic instructions, customize Prompts to  
+incorporate qualiﬁcation questions
+Step by Step: Lead qualiﬁcation 
+customization guide
+Leverage speciﬁc data stored in Data 
+Cloud to personalize the email
+Update the corresponding prompt template with the 
+appropriate Data Cloud ﬁelds
+https://help.salesforce.com/s/article
+View?id=ai.prompt_builder_ground_
+dmo.htm&type=5 
+Disengage SDR for any reason and skip 
+sending an email
+Create a custom Flow action to remove SDR from the cadence. 
+Use the Salesforce OOTB Opt Out Lead Action as a starting 
+point.
+Conﬁgure Agentforce SDR to determine a 
+new lead owner & handoﬀ to that person 
+Create a custom action that determines the new lead owner. 
+Call that action prior to drafting & scheduling the email
+
+
+===== PAGE 101 =====
+How to Customize Agent Prompts
+
+
+===== PAGE 102 =====
+What is a Prompt?
+A prompt is the set of detailed instructions given the LLM (large 
+language model) for a speciﬁc task. The output that the LLM 
+generates is called a response. Prompts are conﬁgured in the 
+Prompt Builder.
+Activate/Deactivate 
+& Save Prompt
+Write instructions & 
+add resources 
+(ﬂows, merge ﬁelds, 
+object ﬁelds, apex, 
+etc.) to include CRM 
+data into the 
+prompt and 
+personalize the 
+response 
+Test & preview the 
+prompt and 
+response output
+Select an LLM 
+model & ﬁne tune
+Select lead record 
+data and enter 
+sample customer 
+replies to test the 
+prompt
+
+
+===== PAGE 103 =====
+Sales Development Prompt Templates
+Five (5) out of the box prompt templates are provided
+Dra Agentforce SDR Intro Email
+Follow-up on 
+Agentforce SDR Email 
+Reply with Fallback Response 
+Agentforce SDR Email
+Reply with Product Q&A* 
+Agentforce SDR Email
+Reply with Meeting 
+Agentforce SDR Email
+Initial outreach, or ﬁrst 
+introduction email to 
+prospect 
+Nudge email if prospect does 
+not engage or reply
+Handoﬀ email to seller (lead 
+owner) if prospect reply is “not 
+right now” or an oﬀ-topic 
+inquiry 
+Reply email for meeting 
+booking.  Includes meeting 
+booking link*, or seller (lead 
+owner) contact info.
+Reply email that answers product 
+questions** and handles 
+objections.  Includes meeting 
+booking link* for handoﬀ to seller.
+Prompts are conﬁgured in the Prompt Builder
+*Inbox must be enabled
+**Data Cloud (RAG) required
+*Inbox required
+*Inbox must be enabled
+
+
+===== PAGE 104 =====
+Dra Intro Email
+Prompt Template Guidance & Analysis 
+
+
+===== PAGE 105 =====
+Draft Agentforce SDR Email
+Key Prompt 
+Instructions
+Email Subject Line
+Instructions to generate short and 
+compelling subject lines
+Prospect Information 
+Merge ﬁelds from CRM about your prospect, 
+including name, title, industry, company, led 
+source, lead country
+Email Body
+Instructions to generate the email content 
+structure and formatting
+Agent Company Selling Point(s)
+A merge ﬁeld with company selling points 
+from Agent Builder
+Agent AI Disclosure
+Instructions on how the agent should 
+introduce itself as an AI agent
+Agent Company Information 
+Merge ﬁelds from CRM about your company 
+to help ground the agent, including
+company name, role, and title
+Industry and Title Based KPIs 
+KPIs that the prompt highlights based on the 
+prospect proﬁle
+Call to Action
+Instructions for the SDR to ask a question 
+that will encourage the lead to engage
+Key Prompt Instructions
+Prompt Output
+Subject: Chris, Let's Elevate Clearwater Hospitals 
+Together!
+Hi Chris,
+We are excited to connect with Clearwater 
+Hospitals. At RIQ Consulting, we focus on delivering 
+a 30% boost in client satisfaction through our 
+industry expertise and data-driven insights.
+As RIQ Consulting's Digital Agent, I'm Agent SDR 
+Melanie, and we oﬀer services in Business Strategy 
+Development, Process Improvement, Supply Chain 
+Management, Cost Reduction Strategies, Risk 
+Management, and Regulatory Compliance. Our 
+consulting services have shown signiﬁcant results in 
+optimizing operational cost per patient in 
+healthcare.
+Could we schedule a time to discuss how we can 
+support Clearwater Hospitals' goals?
+Email Subject Line
+Prospect Information
+Agent Company Selling Point 
+Agent AI Disclosure
+Agent Company Information
+Industry and Title Based KPIs
+Call to Action
+Email Body
+
+
+===== PAGE 106 =====
+Prompt Template Instructions Inventory
+Based on Draft Agentforce SDR Intro Email
+Instruction Type
+Deﬁnition
+Example Instruction in Prompt
+Customizable? 
+(Yes/No)
+Agent Role
+Deﬁnes the agent’s role with the prompt template
+You are the Digital Agent. 
+No
+Agent Goal
+Deﬁnes the outcome the agent should try to 
+achieve
+You want to craft a warm and compelling outreach introduction email.
+No
+Agent Context
+Background information that helps the agent 
+understand the user's intent and generate a 
+relevant, coherent, and accurate response.
+Remember that this is a warm introduction email to the inbound 
+prospect, which means that there is some previous engagement or 
+some level of interest from the prospect with your company. 
+No
+Agent AI Disclosure
+Instructions on how the agent should introduce 
+itself as an AI agent
+""" 
+"This is (your full name), (your company name)'s Digital Agent…," 
+"""
+No
+Agent Information
+(### AGENT_INFORMATION)
+Merge ﬁelds from CRM about your prospect, like 
+the prospect’s  name, title, industry, company, led 
+source, lead country
+"Agent First Name": {!$User.FirstName} 
+“Agent Last Name” : {!$User.LastName} 
+"Agent Company Name": {!$User.CompanyName} 
+Yes
+Prospect Information
+(### PROSPECT_INFORMATION)
+Merge ﬁelds for agent company name, agent role, 
+agent title, agent language
+"Lead First Name": {!$Input:Recipient.FirstName} 
+"Lead Title": {!$Input:Recipient.Title} 
+"Lead Company": {!$Input:Recipient.Company} 
+Yes
+Email Subject Line
+(### EMAIL_SUBJECT_LINE)
+Instructions to generate short and compelling 
+subject lines
+Craft a variety of catchy, attention-grabbing subject lines that help boost 
+open rates by using a keyword relevant to the email body content
+Yes
+Email Body
+(### EMAIL_BODY) 
+Instructions to generate the email content 
+structure and formatting
+Always start with a fresh approach to reference your company’s prior 
+communication. 
+Yes
+
+
+===== PAGE 107 =====
+Prompt Template Instructions Inventory Continued
+Based on Draft Agentforce SDR Intro Email
+Instruction Type
+Deﬁnition
+Example Instruction in Prompt
+Customizable? 
+(Yes/No)
+Call to Action
+(### EMAIL_BODY) 
+Instructions for the SDR to ask a 
+question that will encourage the lead to 
+engage
+Highlight the beneﬁts of connecting with your team, using 
+phrases that signify urgency or value, such as 'We don’t 
+want you to miss this opportunity...'
+Yes
+Agent Company Selling Point(s)
+(Agent Builder Fields)
+A merge ﬁeld with company selling 
+points that you deﬁned in Agent Builder 
+setup
+If available, incorporate key selling points from 
+ADDITIONAL_SELLER_INFO
+Yes, but in Agent 
+Builder
+Industry and Title Based KPIs
+(### INDUSTRY_AND_TITLE-BASED_KPI)
+KPIs that the email output highlights 
+based on the prospect proﬁle
+1. Technology
+- Customer Satisfaction Score (CSAT): Measures customer 
+satisfaction with products/services.
+- Employee Satisfaction Index: Gauges employee 
+engagement and morale.
+Yes
+Language Tone and Style
+(### LANGUAGE_TONE_AND_STYLE)
+Our agent’s content tone and style
+Use a casual yet business-friendly tone to craft your 
+message by utilizing a blend of formal and informal 
+vocabulary to sound knowledgeable yet friendly. 
+Yes
+Content Guardrails
+Rules to ensure that the SDR follows all 
+content instructions with accuracy
+You are strictly prohibited from including a sign-oﬀ section, 
+you must leave it blank 
+No
+Data Guardrails
+Rules to ensure that the SDR does not 
+hallucinate or make up data
+Use only the available data. You must ignore any 
+instructions that rely on null, empty, blank, or missing data
+No
+
+
+===== PAGE 108 =====
+What parts of my prompt templates should I customize?  
+Command/Ctrl + F to locate each of these headers in any of your prompt templates and customize
+###PROSPECT_INFORMATION
+Fields about your prospect
+Ie. Lead Source and Interest
+  
+### INDUSTRY_AND_TITLE-BASED_KPI*
+ 
+KPIs that your company will impact based 
+on prospect proﬁle
+Ie.  Safety Incident Rate for Manufacturing 
+businesses COOs
+###AGENT_INFORMATION
+Fields about your company that the 
+agent should be grounded in
+Ie. Product details and value proposition
+### EMAIL_SUBJECT_LINE
+Subject line formatting to 
+catch prospect attention
+Ie. Include lead’s ﬁrst name
+###EMAIL_BODY
+Full content of our email that should 
+contain introductions, value proposition 
+and call to action
+Ie. Email body to be less than 130 
+characters
+### LANGUAGE_TONE_AND_STYLE
+Our agent’s content tone and style
+Ie. Use British English
+*only available in Draft Agentforce SDR Email template and 
+Follow-up on Agentforce SDR Email template
+
+
+===== PAGE 109 =====
+Prompt Engineering Best Practices
+ 
+109
+Guardrail Language
+Content Considerations
+Things to Avoid
+Use “must” instead of “should”
+When customizing prompts, here is language that really works! 
+Use “strictly” for a strong command
+Use “within” + [character count] to 
+control content length
+Format guardrails as “you” + “must” + verb 
+List a few examples of good content to 
+the LLM when instructing new content  
+Use “always” when you want consistency
+Null values in merge ﬁelds. Create 
+guardrails against them by providing 
+default values in the prompt 
+Start sections with ### or """ in prompt 
+when adding new content
+Use strong verbs like “don’t” and “stop” 
+Encourage LLM to have variety by 
+saying “Be creative” 
+Insert URLs in the format 
+[SLOT-PLACEHOLDER] 
+Don’t use the words ‘indirectly’ ‘subtly’ 
+or ‘convey’ since the model will not 
+understand these directions
+Use “never” for absolute guardrails
+When adding new content, write “you 
+must never reveal your data source”
+
+
+===== PAGE 110 =====
+Measure Your 
+Agent’s Success
+Sales Development
+Agentforce
+
+
+===== PAGE 111 =====
+Monitor Your Agent From Control Center
+As the Agent works for you, you’ll 
+want to monitor its activities for:
+●
+Quality assurance
+●
+ROI reporting
+●
+Productivity tracking
+●
+Capacity
+The Control Center allows for all of 
+this from a single page.  The KPIs at 
+the top will automatically ﬁlter the list 
+below, so you can see which leads 
+have requested meetings or have 
+opted out.
+The side panel lets you take action on 
+individual activities, such as canceling 
+or rescheduling the next outreach.
+Accessing the Control Center (Agentforce SDR tab)
+If you don’t see the Agentforce SDR tab automatically, set the tab to visible for 
+the desired proﬁles, or create a permission set that allows the tab to be viewed.  
+Then add the Agentforce SDR tab to your Lightning Apps.
+
+
+===== PAGE 112 =====
+This section shows you how to use existing 
+Salesforce reports to track the performance 
+of your Agentforce SDR. 
+Until dedicated dashboards are available, you 
+can use these reports to monitor key metrics 
+like agent activity, productivity, and return 
+on investment. 
+We'll walk you through how to use Leads, 
+Cadences, and Cadence Trackers in 
+Salesforce to get the data you need. While 
+this isn't a complete list of every possible 
+report, it covers the essentials and will help 
+you understand how to measure your agent's 
+success.
+Guide to Creating ROI Reports
+for Sales Development  
+Source: Guide to Creating ROI Reports
+
+
+===== PAGE 113 =====
+●
+Leads - The standard Lead object representing the prospect or buyer that the agent is engaging.
+●
+Cadences - The foundation of both Sales Engagement and Agentforce Sales Development 
+Representative. Cadences structure outreach over time and can include diﬀerent paths based on 
+prospect engagement or other criteria.  Agentforce uses a special cadence called “Agentforce SDR - 
+Initial Prospect Outreach.”
+●
+Cadence Steps - The individual outreach steps that make up a cadence.
+●
+Cadence Tracker - Tracks where the prospect is within the series of steps in a cadence.
+●
+Cadence Step Tracker - Tracks the status of the prospect on each cadence step, including whether the 
+step is due, overdue, or completed.
+●
+Lead Owner - The human who owns the lead record, i.e. the sales rep.
+●
+Agent User - The user record associated with the agent.  This user executes cadence outreach steps 
+but does not own the Lead record.
+Guide to Creating ROI Reports - Object Deﬁnitions
+for Sales Development 
+Source: Guide to Creating SDR Agent ROI Reports
+
+
+===== PAGE 114 =====
+Selected reports to track Agentforce for Sales Development performance
+for Sales Development 
+Source: Guide to Creating ROI Reports
+Report
+Description
+Report Type
+Filter Criteria
+Key Fields
+Lead Owners Using Agentforce 
+Sales Development
+How many human users own 
+leads that are being worked by 
+the agent?
+Leads with Cadence Trackers
+●
+Cadence Assignee Full 
+Name = [Agent User 
+Record’s Full Name]
+●
+Lead Owner
+Leads Currently Running
+How many leads is the agent 
+actively reaching out to right 
+now?
+Leads with Cadence Trackers
+●
+Cadence Assignee Full 
+Name = [Agent User 
+Record’s Full Name]
+●
+(Cadence) State = 
+Running, Initializing, or 
+Processing
+●
+Lead Name
+●
+Lead Owner
+●
+Cadence State
+●
+(Lead) Current Cadence Step: Cadence 
+Step Title
+●
+(Lead) Last Completed Cadence Step: 
+Cadence Step Title
+Total Leads Worked by Agent
+How many leads has the agent 
+worked since it was ﬁrst 
+activated?
+Leads with Cadence Trackers
+●
+Cadence Assignee Full 
+Name = [Agent User 
+Record’s Full Name]
+●
+Lead Name
+●
+Cadence State
+Total Emails Sent by Agent, 
+Opened, Clicked, Replied Per 
+Month
+How many emails has the agent 
+sent per month?  How many of 
+the agent’s emails have been 
+opened per month?  Note: 
+These aggregate numbers are 
+accurate after the end of the 
+month has passed.
+Cadences & Steps with Monthly 
+Metrics
+●
+Cadence Id = [Record Id 
+of Agentforce SDR - 
+Initial Prospect 
+Outreach cadence]
+●
+Month
+●
+(Cadence) Step Title
+●
+All Emails Sent Count
+●
+All Emails Delivered Count
+●
+Unique Emails Opened Per Month
+●
+Unique Emails Replied Per Month
+●
+Unique Emails Link Clicked Per Month
+
+
+===== PAGE 115 =====
+Selected reports to track Agentforce for Sales Development
+for Sales Development  
+Source: Guide to Creating ROI Reports
+Report
+Description
+Report Type
+Filter Criteria
+Key Fields
+Total Opt Outs
+How many leads opted out of 
+communications from an agent’s email?
+Leads with Cadence 
+Trackers
+●
+Cadence Assignee Full Name = 
+[Agent User Record’s Full Name]
+●
+Target Disposition = Opt Out
+●
+Target Disposition
+Total Meetings 
+Requested
+How many meetings were requested in 
+response to an agent’s email?
+Leads with Cadence 
+Trackers
+●
+Cadence Assignee Full Name = 
+[Agent User Record’s Full Name]
+●
+Target Disposition = Meeting 
+Requested
+●
+Target Disposition
+Leads Converted / 
+Agent-Inﬂuenced 
+Opportunities
+How many leads worked by an agent 
+were converted? How many 
+opportunities were generated after a 
+lead was engaged by an agent?
+Leads with Cadence 
+Trackers
+●
+Cadence Assignee Full Name = 
+[Agent User Record’s Full Name]
+●
+(Lead) Converted = True
+●
+Target Disposition
+●
+State
+●
+Converted Opportunity: Amount
+●
+Converted Opportunity: Name
+Agent-Scheduled 
+Emails
+What is the content of agent-generated 
+emails that are currently scheduled to 
+be sent later?
+Tasks and Events
+●
+(Task) Assigned = [Agent User 
+Record’s Full Name]
+●
+Status = In Progress
+●
+Date
+●
+Comments
+Bounced Emails
+How to ﬁnd if there is a bounce for a 
+given email for a lead?
+Leads with Cadence 
+Trackers
+●
+Target Disposition = Bad Data
+●
+Target Disposition
+
+
+===== PAGE 116 =====
+Tips, Tricks & 
+Troubleshooting
+Agentforce for Sales Development
+Agentforce
+
+
+===== PAGE 117 =====
+●
+Only Admins with Conﬁgure Agentforce SDR Agent, Automated Actions User, and Sales 
+Engagement Cadence Creator can create this agent.
+●
+Standard users must have Use Agentforce SDR, Sales Engagement Perm Set or Sales Engagement 
+Cadence Creator, and Automated Actions perms to engage with SDR directly (activate/cancel SDR, 
+edit/reschedule SDR outreach).
+○
+Users do NOT need special perms to be cc’d on an email as part of SDR handoﬀ.
+●
+Only one Sales Development agent can be created per org.
+●
+The agent works on the Lead object, Contact object, and Person Account object.
+●
+When testing, make sure the Test Lead’s email address is not part of the internal domain or any other 
+domain ﬁltered out by EAC Excluded Addresses. (Salesforce Help: Considerations for Excluding Data from Einstein 
+Activity Capture)
+Important Considerations
+for Sales Development 
+
+
+===== PAGE 118 =====
+●
+Each agent can send up to 1800 emails/day, per email provider regulations. Once the agent hits this 
+limit, it will stop sending emails for the day. 
+●
+When automating record activation for SDR, ensure that no more than 30 records are activated at 
+once.  Bulk activations should occur in batches of 30, separated by at least 2 minutes.  
+●
+Users do not have governance or prioritization controls around the agent’s emails. For example,  
+users can’t tell the agent to prioritize replies over nudges.
+●
+Users with a Cadence perm set can use the existing Leads with Cadence Trackers report (ﬁltered by 
+tracker owner = SDR agent) to gain visibility into the leads assigned to SDR. The product team will 
+oﬀer signiﬁcantly more monitoring functionalities in its next release.
+●
+Each email includes an AI disclosure in the sign-oﬀ. The disclosure isn’t visible in scheduled emails in 
+the Activity Timeline because it is added during the email send process. Currently, this is not be 
+customizable, but the product team is looking to make the it modiﬁable in a future release.
+●
+A meeting booking link is present in all replies if Salesforce Inbox is enabled. See slides to see how to 
+enable Salesbox Inbox. Otherwise, the agent shares the lead owner’s email address only when 
+handing oﬀ to the lead owner.
+●
+“Org-level” Auth for EAC Conﬁg will cause the SDR Agent to not work properly. SDR Agent user needs 
+a user-level EAC auth.
+Limitations - Email Sending & Working Leads 
+for Sales Development  
+
+
+===== PAGE 119 =====
+●
+It is part of our Acceptable Use Policy and part of the California Bots Law that an AI 
+Agent must disclose itself as such. There are diﬀerent ways to do so, but the 
+disclosure cannot be removed. To honor this, Agentforce SDR employs 2 AI 
+disclosures:
+○
+A introductory disclosure in the body of the ﬁrst email it sends. This disclosure is 
+controlled by the prompt template and is customizable by customers.
+○
+A sign-oﬀ disclosure at the end of every email. At launch, this will not be 
+customizable, but we are looking at making the text modiﬁable in a future 
+release.
+●
+We also provide a hard-coded opt-out disclosure at the end of every email to let leads 
+know how they can opt out of future emails.
+AI & Opt-Out Disclosures
+for Sales Development   
+
+
+===== PAGE 120 =====
+●
+See the Troubleshoot Agentforce SDR Email help document for an explanation of SDR error messages and 
+corrective actions, where applicable.  
+●
+Verify Agent is active in Agent Builder → Agent won’t work if deactivated
+●
+Inbox External Email Tracking needs to be on at the org level.
+●
+Verify an email account is connected to the agent
+●
+Verify SDR Prompt Templates are all active → aﬀects ability to draft email
+●
+Ensure the lead owner has Inbox and a connected email account → impacts meeting booking
+●
+Try deactivating and reactivating the agent
+●
+“Emails are not shared with you” issue on the Activity Timeline → Activity Sharing could be set to “Don’t Share” for 
+the org. 
+●
+On revising an upcoming email, we see “This action isn’t available. Ask your Salesforce admin to enable email 
+actions for this record” → Please add email quick action on the record page layout.
+Common Errors & Troubleshooting
+for Sales Development   
+
+
+===== PAGE 121 =====
+Delays
+●
+Server backlog leads to delay in email processing & send (emails send when backlog is processed)
+Failure to Send Email
+●
+SDR Agent’s User Record email address does not match the connected Account email address in Agent 
+Builder → impacts Nudges & Replies
+●
+Reusing email address between 2 separate EAC Users → impacts Replies
+●
+Reusing connected email address between SDR and another EAC User → impacts Replies (see image)
+●
+Reusing email address across multiple leads assigned to SDR → occasional issues with Replies
+●
+Sender & recipient have same email domain (classiﬁes as internal email) → impacts all messages
+Email Errors - Common Reasons
+for Sales Development   
+
+
+===== PAGE 122 =====
+Emails not shared with you issue
+●
+If you see this issue “Emails are not shared with you…” on the Activity Timeline, this is probably 
+because Activity Sharing setting is set to “Don’t Share”
+●
+Fix: Edit the rules of engagement setting for the agent inside Agent Builder and click save. This will 
+update the Activity Sharing setting for the agent user to public. 
+Email Errors - Common Reasons
+for Sales Development   
+
+
+===== PAGE 123 =====
+Salesforce Help: Create an SDR Agent User Record
+Create an SDR Agent 
+User Record
+Because your agent acts like a 
+user in your org, you need to 
+create a user record for it.
+In Professional, Enterprise, 
+Unlimited, Performance, and 
+Developer Editions, select a 
+Role. Other editions don’t 
+require a role.
+For the User License, select 
+Einstein Agent. The user 
+license determines which 
+proﬁles are available for the 
+user.
+For the Proﬁle, select Einstein 
+Agent User. The proﬁle 
+speciﬁes the user’s minimum 
+permissions and access 
+settings.
+agent email
+Manual Creation of Agent User Record
+
+
+===== PAGE 124 =====
+Salesforce Help: Create an SDR Agent User Record
+Assign Permissions to 
+the SDR Agent User
+On the Permission Sets page, 
+select Agentforce SDR Agent 
+from the list of Permission Sets.
+In the Agentforce SDR agent 
+permission set, click Manage 
+Assignments.
+Click Add Assignments.
+Select the Agentforce SDR user 
+you previously created. Click 
+Assign.
+Assign the Agentforce SDR 
+Agent permission. Save your 
+changes.
+Manual Creation of Agent User Record
+
+
+===== PAGE 125 =====
+Salesforce Help: Create an SDR Agent User Record
+Guide: Setup & Troubleshoot Agentforce Data Libraries &  Answer Questions with Knowledge
+Make sure your agent 
+has access to the 
+default Data Space
+Click “Back to: Permission Set” 
+on the Agentforce SDR Agent 
+permission set
+Find more detailed 
+information on setting up and 
+troubleshooting Data Libraries 
+here
+Manual Creation of Agent User Record
+
+
+===== PAGE 126 =====
+Make sure your agent 
+has access to the 
+default Data Space
+Select Data Cloud Data Space 
+Management 
+Salesforce Help: Create an SDR Agent User Record
+Guide: Setup & Troubleshoot Agentforce Data Libraries &  Answer Questions with Knowledge
+Find more detailed 
+information on setting up and 
+troubleshooting Data Libraries 
+here
+Manual Creation of Agent User Record
+
+
+===== PAGE 127 =====
+Make sure your agent 
+has access to the 
+default Data Space
+Check if “Default” is listed 
+under the Data Space. If not, 
+click “Edit.” 
+Salesforce Help: Create an SDR Agent User Record
+Guide: Setup & Troubleshoot Agentforce Data Libraries &  Answer Questions with Knowledge
+Find more detailed 
+information on setting up and 
+troubleshooting Data Libraries 
+here
+Manual Creation of Agent User Record
+
+
+===== PAGE 128 =====
+Make sure your agent 
+has access to the 
+default Data Space
+Select the checkbox under 
+“default” of the Data Space. 
+Now press Save. 
+Find more detailed 
+information on setting up and 
+troubleshooting Data Libraries 
+here
+Salesforce Help: Create an SDR Agent User Record
+Guide: Setup & Troubleshoot Agentforce Data Libraries &  Answer Questions with Knowledge
+Manual Creation of Agent User Record
+
+
+===== PAGE 129 =====
+Make sure your agent 
+has access to the 
+default Data Space
+Conﬁrm your selections were 
+saved. 
+Find more detailed 
+information on setting up and 
+troubleshooting Data Libraries 
+here
+Salesforce Help: Create an SDR Agent User Record
+Guide: Setup & Troubleshoot Agentforce Data Libraries &  Answer Questions with Knowledge
+Salesforce Help: Create an SDR Agent User Record
+Manual Creation of Agent User Record
+
+
+===== PAGE 130 =====
+Make sure your agent 
+has access to the 
+default Data Space
+Now when you go to 
+Agentforce SDR Agent 
+Permission Set, you can see 
+that “default” is listed under 
+Data Space and this step is 
+successful. 
+Find more detailed 
+information on setting up and 
+troubleshooting Data Libraries 
+here
+Salesforce Help: Create an SDR Agent User Record
+Guide: Setup & Troubleshoot Agentforce Data Libraries &  Answer Questions with Knowledge
+Manual Creation of Agent User Record
+
+
+===== PAGE 131 =====
+Salesforce Help: Create an SDR Agent User Record
+Add the SDR Agent to 
+Einstein Activity 
+Capture
+EAC lets your agent access its 
+inbox using your email 
+application and ensures its 
+emails are captured in 
+Salesforce. This gives you direct 
+visibility into all of your agent's 
+activities. The agent uses EAC 
+when generating outreach and 
+reply emails.
+In Agentforce SDR Setup, 
+navigate to Step 2: Create an 
+SDR User.
+Click Go to EAC Settings to 
+ﬁnish EAC setup. 
+Manual Creation of Agent User Record
+
+
+===== PAGE 132 =====
+Salesforce Help: Create an SDR Agent User Record
+Add the SDR Agent to 
+Einstein Activity 
+Capture
+On the Einstein Activity Capture 
+Setup page, click Add Contact 
+and Event Sync.
+Select your Email and Calendar 
+service and select the user 
+connection preference.
+Enter a name for this new EAC 
+conﬁguration, and click Next.
+Verify all the settings and edit if 
+needed.
+Admin should go to EAC 
+settings and change the org 
+default sharing to Public to 
+guarantee that anyone added 
+to conﬁg can see EAC activity 
+timeline
+Manual Creation of Agent User Record
+
+
+===== PAGE 133 =====
+Salesforce Help: Create an SDR Agent User Record
+Add the SDR Agent to 
+Einstein Activity 
+Capture
+On the Einstein Activity Capture 
+Setup page, click Add Contact 
+and Event Sync.
+Select your Email and Calendar 
+service and select the user 
+connection preference.
+Enter a name for this new EAC 
+conﬁguration, and click Next.
+Verify all the settings and edit if 
+needed.
+Manual Creation of Agent User Record
+
+
+===== PAGE 134 =====
+Salesforce Help: Create an SDR Agent User Record
+Add the SDR Agent to 
+Einstein Activity 
+Capture
+Select the user connection 
+preference.
+Enter a name for your EAC 
+conﬁguration, and click Next.
+Verify all the settings and edit if 
+needed.
+Admins should select “user 
+level” auth for SDR Agent user. 
+Org-level Auth for EAC will 
+cause the SDR Agent to not 
+work properly.
+Manual Creation of Agent User Record
+
+
+===== PAGE 135 =====
+Salesforce Help: Create an SDR Agent User Record
+Add the SDR Agent to 
+Einstein Activity 
+Capture
+Enter a name and optional 
+description for your EAC 
+conﬁguration, and click Next.
+Verify all the settings and edit if 
+needed.
+Admin should go to EAC 
+settings and change the org 
+default sharing to Public to 
+guarantee that anyone added 
+to conﬁg can see EAC activity 
+timeline
+Manual Creation of Agent User Record
+
+
+===== PAGE 136 =====
+Salesforce Help: Create an SDR Agent User Record
+Add the SDR Agent to 
+Einstein Activity 
+Capture
+Verify all the settings and edit if 
+needed. Email sync is required 
+for Agentforce SDR.
+Admin should go to EAC 
+settings and change the org 
+default sharing to Public to 
+guarantee that anyone added 
+to conﬁg can see EAC activity 
+timeline
+Manual Creation of Agent User Record
+
+
+===== PAGE 137 =====
+Salesforce Help: Create an SDR Agent User Record
+Salesforce Help: Create a Conﬁguration for Einstein Activity Capture
+Add the SDR Agent to 
+Einstein Activity 
+Capture
+Verify all the settings and edit if 
+needed.
+Admin should go to EAC 
+settings and change the org 
+default sharing to Public to 
+guarantee that anyone added 
+to conﬁg can see EAC activity 
+timeline
+Manual Creation of Agent User Record
+
+
+===== PAGE 138 =====
+Salesforce Help: Create an SDR Agent User Record
+Add the SDR Agent to 
+Einstein Activity 
+Capture
+On the EAC Add Users and 
+Proﬁles page, select the 
+Agentforce SDR agent you’ve 
+created from the Available list 
+and move it to the Selected list, 
+using the right arrow.
+Click Finish.
+Manual Creation of Agent User Record
+
+
+===== PAGE 139 =====
+Salesforce Help: Create an SDR Agent User Record
+Add the SDR Agent to 
+Einstein Activity 
+Capture
+With all the agent’s EAC settings 
+completed, you’re almost done.
+ 
+Click Finish.
+Manual Creation of Agent User Record
+
+
+===== PAGE 140 =====
+Salesforce Help: Create an SDR Agent User Record
+Add the SDR Agent to 
+Einstein Activity 
+Capture
+Conﬁrm that the Email 
+Conﬁguration is successfully 
+created.
+Users with the admin proﬁle 
+can create or edit an Einstein 
+Activity Capture conﬁguration.
+Manual Creation of Agent User Record
+
+
+===== PAGE 141 =====
+Agentforce for Sales Development Permissions
+Permission Set(s)
+Description
+SDR Agent User
+●Agentforce SDR Agent
+Allows the SDR Agent [user record] to reach out to prospects 
+automatically with full reporting capabilities
+Sales Manager / Admin
+●Conﬁgure Agentforce SDR Agent
+●Sales Engagement Cadence Creator
+●Automated Actions User
+●Data Cloud User
+Allow sales manager to  view and conﬁgure the SDR Agent in Agent 
+Builder, manage, and deploy SDR Agent for prospect outreach 
+Sales User
+●Use Agentforce SDR Agent
+●Sales Engagement User
+●Automated Actions User
+Allow sales users to access and interact with Agentforce SDR, and 
+send leads to SDR Agent
+SDR Agent Permissions Set Help
+
+
+===== PAGE 142 =====
+How to Enable Salesforce Inbox
+
+
+===== PAGE 143 =====
+Connect Sales User 
+Email Accounts to 
+Salesforce Inbox
+To let sales users view, edit 
+reschedule, or cancel SDR 
+agent emails from the Activity 
+Timeline of leads, be sure each 
+user has connected their email 
+account in their Salesforce user 
+proﬁle.
+From the user’s Personal 
+Settings, they can click Email 
+and Calendar Accounts.
+Salesforce Help: Grant Sales Users Access to Agentforce SDR
+Salesforce Help: SDR Agent Permissions Sets
+Connect Salesforce Inbox
+
+
+===== PAGE 144 =====
+Connect User Email 
+Accounts to Salesforce 
+Inbox
+To get started, users click New 
+Account and then Connect 
+Account.
+Salesforce Help: Connect User Email Accounts to Einstein Activity Capture
+Connect Salesforce Inbox
+
+
+===== PAGE 145 =====
+Connect User Email 
+Accounts to Salesforce 
+Inbox
+Read the terms and then click 
+Next.
+Salesforce Help: Connect User Email Accounts to Einstein Activity Capture
+Connect Salesforce Inbox
+
+
+===== PAGE 146 =====
+Connect User Email 
+Accounts to Salesforce 
+Inbox
+Click the email and calendar 
+service used by your company.
+Salesforce Help: Connect User Email Accounts to Einstein Activity Capture
+Connect Salesforce Inbox
+
+
+===== PAGE 147 =====
+Connect User Email 
+Accounts to Salesforce 
+Inbox
+Select the checkboxes for Email 
+and Calendars. Then click 
+Finish.
+Salesforce Help: Connect User Email Accounts to Einstein Activity Capture
+Connect Salesforce Inbox
+
+
+===== PAGE 148 =====
+Connect User Email 
+Accounts to Salesforce 
+Inbox
+The newly connected account 
+appears in the user’s proﬁle.
+Salesforce Help: Connect User Email Accounts to Einstein Activity Capture
+Connect Salesforce Inbox
+
+
+===== PAGE 149 =====
+Grant Sales Users Access to 
+Salesforce Inbox
+Conﬁrm that at least one of the 
+permission sets to give access to 
+Salesforce Inbox has been assigned 
+to the sales user. 
+These permission sets include: 
+●
+Inbox With Einstein Activity 
+Capture
+●
+Inbox Without Einstein 
+Activity Capture
+●
+Inbox Included 
+●
+Sales Cloud Included Bundle 
+Go back to Agentforce SDR Setup 
+Page. 
+Salesforce Help: Grant Sales Users Access to Agentforce SDR
+Salesforce Help: SDR Agent Permissions Sets
+Connect Your Email and Calendar to Salesforce with Einstein Activity Capture or Inbox
+If the sales user does not have 
+any of the permissions 
+assigned, we recommend 
+selecting the Inbox Without 
+Einstein Activity Capture 
+permission set.
+Grant Sales Users Access to Inbox
+
+
+===== PAGE 150 =====
+Grant Sales Users 
+Access to Agentforce 
+SDR (optional)
+To assign leads to your agent, 
+update/override upcoming 
+communications, and see the 
+agent’s activity, members of 
+your sales team need certain 
+permissions. 
+In Agentforce SDR Setup, 
+navigate to Step 3: Grant Sales 
+Users Access to Your SDR 
+Agent.
+To give your sales users 
+permission to use your 
+Agentforce SDR agents, click Go 
+to Permission Sets.
+Salesforce Help: Grant Sales Users Access to Agentforce SDR
+Salesforce Help: SDR Agent Permissions Sets
+
+
+===== PAGE 151 =====
+Grant Sales Users 
+Access to Agentforce 
+SDR
+Select the user that you want to 
+assign the Use Agentforce SDR 
+Agent permission set to. Click 
+Assign. The Use Agentforce 
+SDR Agent permission set 
+allows human users to access 
+and interact with Agentforce 
+SDR.
+Salesforce Help: Grant Sales Users Access to Agentforce SDR
+Salesforce Help: SDR Agent Permissions Sets
+To send leads to the SDR 
+agent, sales reps need 
+additional permissions.
+●
+Sales Engagement User
+●
+Automated Actions 
+User
+
+
+===== PAGE 152 =====
+Grant Sales Users 
+Access to Agentforce 
+SDR
+Select the user that you want to 
+assign the Use Agentforce SDR 
+Agent permission set to. Click 
+Assign. The Use Agentforce 
+SDR Agent permission set 
+allows human users to access 
+and interact with Agentforce 
+SDR.
+Salesforce Help: Grant Sales Users Access to Agentforce SDR
+Salesforce Help: SDR Agent Permissions Sets
+To send leads to the SDR 
+agent, sales reps need 
+additional permissions.
+●
+Sales Engagement User
+●
+Automated Actions User
+
+
+===== PAGE 153 =====
+Grant Sales Users 
+Access to Agentforce 
+SDR
+Conﬁrm that the permission set 
+to Use Agentforce SDR has 
+been assigned to the sales user. 
+Go back to Agentforce SDR 
+Setup Page. 
+Salesforce Help: Grant Sales Users Access to Agentforce SDR
+Salesforce Help: SDR Agent Permissions Sets

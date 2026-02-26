@@ -15,6 +15,15 @@ Agentforce 領域の入口ページです。ここでは Topic / Action / Guardr
 2. [01-Concepts/Architecture-Overview.md](./01-Concepts/Architecture-Overview.md)
 3. [03-Prompting/Prompt-Structure-v1.md](./03-Prompting/Prompt-Structure-v1.md)
 4. [02-Build-HowTo/Topics/Topic-Design-Case-Assistant-v1.md](./02-Build-HowTo/Topics/Topic-Design-Case-Assistant-v1.md)
+5. [02-Build-HowTo/Setup/agentforce-for-sales-implementation-guide.md](./02-Build-HowTo/Setup/agentforce-for-sales-implementation-guide.md)
+6. [02-Build-HowTo/Setup/agentforce-sales-implementation-guide.md](./02-Build-HowTo/Setup/agentforce-sales-implementation-guide.md)
+7. [01-Concepts/agentforce-developer-get-started.md](./01-Concepts/agentforce-developer-get-started.md)
+8. [03-Prompting/agent-script-knowledge.md](./03-Prompting/agent-script-knowledge.md)
+9. [01-Concepts/agentforce-apis-and-sdks-knowledge.md](./01-Concepts/agentforce-apis-and-sdks-knowledge.md)
+10. [02-Build-HowTo/Actions/agentforce-actions-get-started.md](./02-Build-HowTo/Actions/agentforce-actions-get-started.md)
+11. [02-Build-HowTo/Deployment/agentforce-dx-knowledge.md](./02-Build-HowTo/Deployment/agentforce-dx-knowledge.md)
+12. [03-Prompting/models-and-prompts-get-started.md](./03-Prompting/models-and-prompts-get-started.md)
+13. [04-Integration/mcp-solutions-for-developers.md](./04-Integration/mcp-solutions-for-developers.md)
 
 ## ディレクトリ案内
 
