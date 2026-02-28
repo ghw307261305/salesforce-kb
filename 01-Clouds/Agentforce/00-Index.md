@@ -11,24 +11,25 @@ Agentforce 領域の入口ページです。ここでは Topic / Action / Guardr
 
 ## 最初に読む順番
 
-1. [01-Concepts/Terminology.md](./01-Concepts/Terminology.md)
-2. [01-Concepts/Architecture-Overview.md](./01-Concepts/Architecture-Overview.md)
-3. [03-Prompting/Prompt-Structure-v1.md](./03-Prompting/Prompt-Structure-v1.md)
-4. [02-Build-HowTo/Topics/Topic-Design-Case-Assistant-v1.md](./02-Build-HowTo/Topics/Topic-Design-Case-Assistant-v1.md)
-5. [02-Build-HowTo/Setup/agentforce-for-sales-implementation-guide.md](./02-Build-HowTo/Setup/agentforce-for-sales-implementation-guide.md)
-6. [02-Build-HowTo/Setup/agentforce-sales-implementation-guide.md](./02-Build-HowTo/Setup/agentforce-sales-implementation-guide.md)
-7. [02-Build-HowTo/Setup/Agentforce-Implementation-Runbook.md](./02-Build-HowTo/Setup/Agentforce-Implementation-Runbook.md)
-8. [02-Build-HowTo/Deployment/Release-Checklist.md](./02-Build-HowTo/Deployment/Release-Checklist.md)
-9. [../../03-Roles/Admin/02-Deliverables/Profile-PermissionSet-Matrix.md](../../03-Roles/Admin/02-Deliverables/Profile-PermissionSet-Matrix.md)
-10. [01-Concepts/agentforce-developer-get-started.md](./01-Concepts/agentforce-developer-get-started.md)
-11. [03-Prompting/agent-script-knowledge.md](./03-Prompting/agent-script-knowledge.md)
-12. [01-Concepts/agentforce-apis-and-sdks-knowledge.md](./01-Concepts/agentforce-apis-and-sdks-knowledge.md)
-13. [02-Build-HowTo/Actions/agentforce-actions-get-started.md](./02-Build-HowTo/Actions/agentforce-actions-get-started.md)
-14. [02-Build-HowTo/Deployment/agentforce-dx-knowledge.md](./02-Build-HowTo/Deployment/agentforce-dx-knowledge.md)
-15. [03-Prompting/models-and-prompts-get-started.md](./03-Prompting/models-and-prompts-get-started.md)
-16. [04-Integration/mcp-solutions-for-developers.md](./04-Integration/mcp-solutions-for-developers.md)
-17. [08-Samples/Case-001-SDR-Lead-Nurturing/README.md](./08-Samples/Case-001-SDR-Lead-Nurturing/README.md)
-18. [10-Training/00-index.md](./10-Training/00-index.md)
+1. [01-Concepts/agentforce-basics-theory-practice.md](./01-Concepts/agentforce-basics-theory-practice.md)
+2. [01-Concepts/Terminology.md](./01-Concepts/Terminology.md)
+3. [01-Concepts/Architecture-Overview.md](./01-Concepts/Architecture-Overview.md)
+4. [03-Prompting/Prompt-Structure-v1.md](./03-Prompting/Prompt-Structure-v1.md)
+5. [02-Build-HowTo/Topics/Topic-Design-Case-Assistant-v1.md](./02-Build-HowTo/Topics/Topic-Design-Case-Assistant-v1.md)
+6. [02-Build-HowTo/Setup/agentforce-for-sales-implementation-guide.md](./02-Build-HowTo/Setup/agentforce-for-sales-implementation-guide.md)
+7. [02-Build-HowTo/Setup/agentforce-sales-implementation-guide.md](./02-Build-HowTo/Setup/agentforce-sales-implementation-guide.md)
+8. [02-Build-HowTo/Setup/Agentforce-Implementation-Runbook.md](./02-Build-HowTo/Setup/Agentforce-Implementation-Runbook.md)
+9. [02-Build-HowTo/Deployment/Release-Checklist.md](./02-Build-HowTo/Deployment/Release-Checklist.md)
+10. [../../03-Roles/Admin/02-Deliverables/Profile-PermissionSet-Matrix.md](../../03-Roles/Admin/02-Deliverables/Profile-PermissionSet-Matrix.md)
+11. [01-Concepts/agentforce-developer-get-started.md](./01-Concepts/agentforce-developer-get-started.md)
+12. [03-Prompting/agent-script-knowledge.md](./03-Prompting/agent-script-knowledge.md)
+13. [01-Concepts/agentforce-apis-and-sdks-knowledge.md](./01-Concepts/agentforce-apis-and-sdks-knowledge.md)
+14. [02-Build-HowTo/Actions/agentforce-actions-get-started.md](./02-Build-HowTo/Actions/agentforce-actions-get-started.md)
+15. [02-Build-HowTo/Deployment/agentforce-dx-knowledge.md](./02-Build-HowTo/Deployment/agentforce-dx-knowledge.md)
+16. [03-Prompting/models-and-prompts-get-started.md](./03-Prompting/models-and-prompts-get-started.md)
+17. [04-Integration/mcp-solutions-for-developers.md](./04-Integration/mcp-solutions-for-developers.md)
+18. [08-Samples/Case-001-SDR-Lead-Nurturing/README.md](./08-Samples/Case-001-SDR-Lead-Nurturing/README.md)
+19. [10-Training/00-index.md](./10-Training/00-index.md)
 
 ## ディレクトリ案内
 
@@ -60,6 +61,8 @@ Agentforce 領域の入口ページです。ここでは Topic / Action / Guardr
 ## 関連リンク
 
 - StartHere: [00-StartHere/00-Index.md](../../00-StartHere/00-Index.md)
+- Basics (Theory + Practice): [01-Concepts/agentforce-basics-theory-practice.md](./01-Concepts/agentforce-basics-theory-practice.md)
+- Official Docs: [09-Docs-Links/Official-Docs.md](./09-Docs-Links/Official-Docs.md)
 - Shared Security: [02-Shared/Security-IAM](../../02-Shared/Security-IAM)
 - Shared Integration: [02-Shared/Integration](../../02-Shared/Integration)
 - Project Template: [04-Projects/Project-001-XXXX/00-Overview.md](../../04-Projects/Project-001-XXXX/00-Overview.md)
