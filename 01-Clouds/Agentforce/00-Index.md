@@ -17,13 +17,18 @@ Agentforce 領域の入口ページです。ここでは Topic / Action / Guardr
 4. [02-Build-HowTo/Topics/Topic-Design-Case-Assistant-v1.md](./02-Build-HowTo/Topics/Topic-Design-Case-Assistant-v1.md)
 5. [02-Build-HowTo/Setup/agentforce-for-sales-implementation-guide.md](./02-Build-HowTo/Setup/agentforce-for-sales-implementation-guide.md)
 6. [02-Build-HowTo/Setup/agentforce-sales-implementation-guide.md](./02-Build-HowTo/Setup/agentforce-sales-implementation-guide.md)
-7. [01-Concepts/agentforce-developer-get-started.md](./01-Concepts/agentforce-developer-get-started.md)
-8. [03-Prompting/agent-script-knowledge.md](./03-Prompting/agent-script-knowledge.md)
-9. [01-Concepts/agentforce-apis-and-sdks-knowledge.md](./01-Concepts/agentforce-apis-and-sdks-knowledge.md)
-10. [02-Build-HowTo/Actions/agentforce-actions-get-started.md](./02-Build-HowTo/Actions/agentforce-actions-get-started.md)
-11. [02-Build-HowTo/Deployment/agentforce-dx-knowledge.md](./02-Build-HowTo/Deployment/agentforce-dx-knowledge.md)
-12. [03-Prompting/models-and-prompts-get-started.md](./03-Prompting/models-and-prompts-get-started.md)
-13. [04-Integration/mcp-solutions-for-developers.md](./04-Integration/mcp-solutions-for-developers.md)
+7. [02-Build-HowTo/Setup/Agentforce-Implementation-Runbook.md](./02-Build-HowTo/Setup/Agentforce-Implementation-Runbook.md)
+8. [02-Build-HowTo/Deployment/Release-Checklist.md](./02-Build-HowTo/Deployment/Release-Checklist.md)
+9. [../../03-Roles/Admin/02-Deliverables/Profile-PermissionSet-Matrix.md](../../03-Roles/Admin/02-Deliverables/Profile-PermissionSet-Matrix.md)
+10. [01-Concepts/agentforce-developer-get-started.md](./01-Concepts/agentforce-developer-get-started.md)
+11. [03-Prompting/agent-script-knowledge.md](./03-Prompting/agent-script-knowledge.md)
+12. [01-Concepts/agentforce-apis-and-sdks-knowledge.md](./01-Concepts/agentforce-apis-and-sdks-knowledge.md)
+13. [02-Build-HowTo/Actions/agentforce-actions-get-started.md](./02-Build-HowTo/Actions/agentforce-actions-get-started.md)
+14. [02-Build-HowTo/Deployment/agentforce-dx-knowledge.md](./02-Build-HowTo/Deployment/agentforce-dx-knowledge.md)
+15. [03-Prompting/models-and-prompts-get-started.md](./03-Prompting/models-and-prompts-get-started.md)
+16. [04-Integration/mcp-solutions-for-developers.md](./04-Integration/mcp-solutions-for-developers.md)
+17. [08-Samples/Case-001-SDR-Lead-Nurturing/README.md](./08-Samples/Case-001-SDR-Lead-Nurturing/README.md)
+18. [10-Training/00-index.md](./10-Training/00-index.md)
 
 ## ディレクトリ案内
 
@@ -36,6 +41,7 @@ Agentforce 領域の入口ページです。ここでは Topic / Action / Guardr
 - Troubleshooting: [07-Troubleshooting](./07-Troubleshooting)
 - Samples: [08-Samples](./08-Samples)
 - Docs Links: [09-Docs-Links](./09-Docs-Links)
+- Training: [10-Training](./10-Training)
 
 ## 作業フロー（推奨）
 
@@ -57,3 +63,8 @@ Agentforce 領域の入口ページです。ここでは Topic / Action / Guardr
 - Shared Security: [02-Shared/Security-IAM](../../02-Shared/Security-IAM)
 - Shared Integration: [02-Shared/Integration](../../02-Shared/Integration)
 - Project Template: [04-Projects/Project-001-XXXX/00-Overview.md](../../04-Projects/Project-001-XXXX/00-Overview.md)
+- Implementation Runbook: [02-Build-HowTo/Setup/Agentforce-Implementation-Runbook.md](./02-Build-HowTo/Setup/Agentforce-Implementation-Runbook.md)
+- Go-Live Checklist: [02-Build-HowTo/Deployment/Release-Checklist.md](./02-Build-HowTo/Deployment/Release-Checklist.md)
+- Permission Matrix Template: [03-Roles/Admin/02-Deliverables/Profile-PermissionSet-Matrix.md](../../03-Roles/Admin/02-Deliverables/Profile-PermissionSet-Matrix.md)
+- Sample Case Package: [08-Samples/Case-001-SDR-Lead-Nurturing/README.md](./08-Samples/Case-001-SDR-Lead-Nurturing/README.md)
+- Training Index: [10-Training/00-index.md](./10-Training/00-index.md)
